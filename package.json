@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "all": "tsx src/index.ts all",
-    "scrape:directory": "tsx src/index.ts directory",
-    "scrape:player": "tsx src/index.ts player",
+    "scrape:players": "tsx src/index.ts player",
+    "scrape:faqs": "tsx src/index.ts faq",
     "aggregate": "tsx src/index.ts aggregate"
   },
   "dependencies": {
