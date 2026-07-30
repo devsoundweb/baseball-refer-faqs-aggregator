@@ -28,8 +28,6 @@ export async function fileExist(path: string): Promise<Boolean> {
 export async function fetchCached(url: string, cachePath: string): Promise<string> {
 
     const isExist = await fileExist(cachePath);
-    console.log(isExist, cachePath);
-
     if (isExist) {
         return fs.readFile(cachePath, "utf8");
     }

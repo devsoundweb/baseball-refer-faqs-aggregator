@@ -8,8 +8,9 @@ async function scrapePlayers(): Promise<Player[]> {
 
     const all = await getAllPlayers();
 
+    console.log(`${all.length} players were founded.`)
     const matched = all;
-
+    
     return matched;
 }
 
