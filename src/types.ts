@@ -3,3 +3,9 @@ export interface Player {
     name: string;
     url: string;
 }
+
+export interface PlayerFAQ {
+    id: string;
+    name: string;
+    questions: string[]
+}

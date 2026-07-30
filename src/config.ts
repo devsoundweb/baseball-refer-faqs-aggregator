@@ -14,6 +14,9 @@ export const CONFIG = {
     // Fold accents/diacritics (e.g. "á" -> "a") before counting 'a's.
     // See README/debrief: this is a documented interpretation decision.
     foldDiacritics: true,
+    
+    targetLetter: "a",
+    targetCount: 3,
 
     paths: {
         data: path.join(ROOT, "data"),
@@ -21,7 +24,7 @@ export const CONFIG = {
         playerHtml: path.join(ROOT, "data", "players"),
         output: path.join(ROOT, "output"),
     },
-    
+
     http: {
         userAgent:
             "bbref-faq-aggregator/1.0 (take-home assessment; contact: candidate)",
