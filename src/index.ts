@@ -118,7 +118,9 @@ async function main(): Promise<void> {
             await aggregateFAQs();
             break;
         case "all":
-            console.log("all");
+            await scrapePlayers();
+            await scrapeFAQ();
+            await aggregateFAQs();
             break;
         default:
             console.error(`Unkown command ${cmd}. Use: player | faq | aggreage | all`);

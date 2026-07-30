@@ -1,0 +1,6305 @@
+{
+  "generatedAt": "2026-07-30T19:06:31.158Z",
+  "criteria": {
+    "targetLetter": "a",
+    "targetCount": 3,
+    "foldDiacritics": true
+  },
+  "totalCount": 23725,
+  "totalMatched": 899,
+  "players": [
+    {
+      "id": "abadan01",
+      "name": "Andy Abad",
+      "url": "https://www.baseball-reference.com/players/a/abadan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "abadfe01",
+      "name": "Fernando Abad",
+      "url": "https://www.baseball-reference.com/players/a/abadfe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "abernte01",
+      "name": "Tal Abernathy",
+      "url": "https://www.baseball-reference.com/players/a/abernte01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "abramca01",
+      "name": "Cal Abrams",
+      "url": "https://www.baseball-reference.com/players/a/abramca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "acostma01",
+      "name": "Manny Acosta",
+      "url": "https://www.baseball-reference.com/players/a/acostma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "acostma02",
+      "name": "Maximo Acosta",
+      "url": "https://www.baseball-reference.com/players/a/acostma02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "acunajo01",
+      "name": "Luisangel Acuña",
+      "url": "https://www.baseball-reference.com/players/a/acunajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "acunaro01",
+      "name": "Ronald Acuña Jr.",
+      "url": "https://www.baseball-reference.com/players/a/acunaro01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamja01",
+      "name": "Jason Adam",
+      "url": "https://www.baseball-reference.com/players/a/adamja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamecr01",
+      "name": "Cristhian Adames",
+      "url": "https://www.baseball-reference.com/players/a/adamecr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsac01",
+      "name": "Ace Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsac01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsau01",
+      "name": "Austin Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsau01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsau02",
+      "name": "Austin Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsau02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsba01",
+      "name": "Babe Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsch01",
+      "name": "Chance Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsda01",
+      "name": "Dan Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsda02",
+      "name": "David Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsda02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamska01",
+      "name": "Karl Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamska01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsla01",
+      "name": "Lane Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsma01",
+      "name": "Matt Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamsry01",
+      "name": "Ryan Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsry01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamssp01",
+      "name": "Sparky Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamssp01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adamstr01",
+      "name": "Travis Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamstr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adcocna01",
+      "name": "Nathan Adcock",
+      "url": "https://www.baseball-reference.com/players/a/adcocna01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "adriaeh01",
+      "name": "Ehire Adrianza",
+      "url": "https://www.baseball-reference.com/players/a/adriaeh01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "agbaybe01",
+      "name": "Benny Agbayani",
+      "url": "https://www.baseball-reference.com/players/a/agbaybe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "agganha01",
+      "name": "Harry Agganis",
+      "url": "https://www.baseball-reference.com/players/a/agganha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "aguiaju01",
+      "name": "Julian Aguiar",
+      "url": "https://www.baseball-reference.com/players/a/aguiaju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "aguilry01",
+      "name": "Ryan Aguilar",
+      "url": "https://www.baseball-reference.com/players/a/aguilry01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ahearpa01",
+      "name": "Pat Ahearne",
+      "url": "https://www.baseball-reference.com/players/a/ahearpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "akiyash01",
+      "name": "Shogo Akiyama",
+      "url": "https://www.baseball-reference.com/players/a/akiyash01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alcaljo01",
+      "name": "Jorge Alcala",
+      "url": "https://www.baseball-reference.com/players/a/alcaljo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alcarlu01",
+      "name": "Luis Alcaraz",
+      "url": "https://www.baseball-reference.com/players/a/alcarlu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alemafr01",
+      "name": "Franco Aleman",
+      "url": "https://www.baseball-reference.com/players/a/alemafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexabl01",
+      "name": "Blaze Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexabl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexada01",
+      "name": "Dale Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexaga01",
+      "name": "Gary Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexaga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexage01",
+      "name": "Gerald Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexage01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexaja01",
+      "name": "Jason Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexama02",
+      "name": "Manny Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexama02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexama01",
+      "name": "Matt Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alexawa01",
+      "name": "Walt Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alfarja01",
+      "name": "Jason Alfaro",
+      "url": "https://www.baseball-reference.com/players/a/alfarja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alfonan01",
+      "name": "Antonio Alfonseca",
+      "url": "https://www.baseball-reference.com/players/a/alfonan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "allanan01",
+      "name": "Andy Allanson",
+      "url": "https://www.baseball-reference.com/players/a/allanan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "allarbr01",
+      "name": "Brian Allard",
+      "url": "https://www.baseball-reference.com/players/a/allarbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "allisda01",
+      "name": "Dana Allison",
+      "url": "https://www.baseball-reference.com/players/a/allisda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "almadme01",
+      "name": "Mel Almada",
+      "url": "https://www.baseball-reference.com/players/a/almadme01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "almoral01",
+      "name": "Albert Almora",
+      "url": "https://www.baseball-reference.com/players/a/almoral01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alomasa01",
+      "name": "Sandy Alomar",
+      "url": "https://www.baseball-reference.com/players/a/alomasa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alomasa02",
+      "name": "Sandy Alomar",
+      "url": "https://www.baseball-reference.com/players/a/alomasa02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "altampo01",
+      "name": "Porfi Altamirano",
+      "url": "https://www.baseball-reference.com/players/a/altampo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "altheaa01",
+      "name": "Aaron Altherr",
+      "url": "https://www.baseball-reference.com/players/a/altheaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarel01",
+      "name": "Elvis Alvarado",
+      "url": "https://www.baseball-reference.com/players/a/alvarel01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarjo03",
+      "name": "José Alvarado",
+      "url": "https://www.baseball-reference.com/players/a/alvarjo03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarlu01",
+      "name": "Luis Alvarado",
+      "url": "https://www.baseball-reference.com/players/a/alvarlu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarab01",
+      "name": "Abe Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarab01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvaran01",
+      "name": "Andrew Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvaran01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarda02",
+      "name": "Dariel Álvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarda02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarda01",
+      "name": "Dario Álvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarfr01",
+      "name": "Francisco Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarga01",
+      "name": "Gabe Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarju01",
+      "name": "Juan Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarna01",
+      "name": "Nacho Alvarez Jr.",
+      "url": "https://www.baseball-reference.com/players/a/alvarna01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvaror01",
+      "name": "Orlando Álvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvaror01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarra01",
+      "name": "Raúl Álvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvarta01",
+      "name": "Tavo Álvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarta01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alvaryo01",
+      "name": "Yordan Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvaryo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alyeabr01",
+      "name": "Brant Alyea",
+      "url": "https://www.baseball-reference.com/players/a/alyeabr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "alzolad01",
+      "name": "Adbert Alzolay",
+      "url": "https://www.baseball-reference.com/players/a/alzolad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "amalfjo01",
+      "name": "Joey Amalfitano",
+      "url": "https://www.baseball-reference.com/players/a/amalfjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "amarari01",
+      "name": "Rich Amaral",
+      "url": "https://www.baseball-reference.com/players/a/amarari01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "amayami01",
+      "name": "Miguel Amaya",
+      "url": "https://www.baseball-reference.com/players/a/amayami01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "anderal02",
+      "name": "Allan Anderson",
+      "url": "https://www.baseball-reference.com/players/a/anderal02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "anderfa01",
+      "name": "Fast Ball Anderson",
+      "url": "https://www.baseball-reference.com/players/a/anderfa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "andujjo01",
+      "name": "Joaquín Andújar",
+      "url": "https://www.baseball-reference.com/players/a/andujjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ankenpa01",
+      "name": "Pat Ankenman",
+      "url": "https://www.baseball-reference.com/players/a/ankenpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "annade01",
+      "name": "Dean Anna",
+      "url": "https://www.baseball-reference.com/players/a/annade01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "antonsa01",
+      "name": "Sam Antonacci",
+      "url": "https://www.baseball-reference.com/players/a/antonsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "apodabo01",
+      "name": "Bob Apodaca",
+      "url": "https://www.baseball-reference.com/players/a/apodabo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "aragoan01",
+      "name": "Angel Aragón",
+      "url": "https://www.baseball-reference.com/players/a/aragoan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "aragoja01",
+      "name": "Jack Aragón",
+      "url": "https://www.baseball-reference.com/players/a/aragoja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "archdma01",
+      "name": "Maurice Archdeacon",
+      "url": "https://www.baseball-reference.com/players/a/archdma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arciafr01",
+      "name": "Francisco Arcia",
+      "url": "https://www.baseball-reference.com/players/a/arciafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arciaor01",
+      "name": "Orlando Arcia",
+      "url": "https://www.baseball-reference.com/players/a/arciaor01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arciaos01",
+      "name": "Oswaldo Arcia",
+      "url": "https://www.baseball-reference.com/players/a/arciaos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arellfr01",
+      "name": "Frank Arellanes",
+      "url": "https://www.baseball-reference.com/players/a/arellfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arenano01",
+      "name": "Nolan Arenado",
+      "url": "https://www.baseball-reference.com/players/a/arenano01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arencma01",
+      "name": "Mario Arencibia",
+      "url": "https://www.baseball-reference.com/players/a/arencma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ariasal02",
+      "name": "Alberto Árias",
+      "url": "https://www.baseball-reference.com/players/a/ariasal02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ariasal01",
+      "name": "Alex Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariasal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ariasga01",
+      "name": "Gabriel Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariasga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ariasjo01",
+      "name": "Joaquín Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariasjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ariaslu01",
+      "name": "Luarbert Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariaslu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arihako01",
+      "name": "Kohei Arihara",
+      "url": "https://www.baseball-reference.com/players/a/arihako01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ariosma01",
+      "name": "Mario Ariosa",
+      "url": "https://www.baseball-reference.com/players/a/ariosma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "armasma01",
+      "name": "Marcos Armas",
+      "url": "https://www.baseball-reference.com/players/a/armasma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arojo01",
+      "name": "Jonathan Aro",
+      "url": "https://www.baseball-reference.com/players/a/arojo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arrieja01",
+      "name": "Jake Arrieta",
+      "url": "https://www.baseball-reference.com/players/a/arrieja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arrueba01",
+      "name": "Erisbel Arruebarrena",
+      "url": "https://www.baseball-reference.com/players/a/arrueba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "arteahu01",
+      "name": "Humberto Arteaga",
+      "url": "https://www.baseball-reference.com/players/a/arteahu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "asadora01",
+      "name": "Randy Asadoor",
+      "url": "https://www.baseball-reference.com/players/a/asadora01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ascanca01",
+      "name": "Carlos Ascanio",
+      "url": "https://www.baseball-reference.com/players/a/ascanca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ashbyaa01",
+      "name": "Aaron Ashby",
+      "url": "https://www.baseball-reference.com/players/a/ashbyaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ashbyal01",
+      "name": "Alan Ashby",
+      "url": "https://www.baseball-reference.com/players/a/ashbyal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ashcrbr01",
+      "name": "Braxton Ashcraft",
+      "url": "https://www.baseball-reference.com/players/a/ashcrbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "assadja01",
+      "name": "Javier Assad",
+      "url": "https://www.baseball-reference.com/players/a/assadja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "assenpa01",
+      "name": "Paul Assenmacher",
+      "url": "https://www.baseball-reference.com/players/a/assenpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "asuajca01",
+      "name": "Carlos Asuaje",
+      "url": "https://www.baseball-reference.com/players/a/asuajca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "avilaal01",
+      "name": "Alex Avila",
+      "url": "https://www.baseball-reference.com/players/a/avilaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "avreaja01",
+      "name": "Jay Avrea",
+      "url": "https://www.baseball-reference.com/players/a/avreaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ayalabe01",
+      "name": "Benny Ayala",
+      "url": "https://www.baseball-reference.com/players/a/ayalabe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ayalabo01",
+      "name": "Bobby Ayala",
+      "url": "https://www.baseball-reference.com/players/a/ayalabo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ayalalu01",
+      "name": "Luis Ayala",
+      "url": "https://www.baseball-reference.com/players/a/ayalalu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "aybarma01",
+      "name": "Manny Aybar",
+      "url": "https://www.baseball-reference.com/players/a/aybarma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "azocaos01",
+      "name": "Oscar Azócar",
+      "url": "https://www.baseball-reference.com/players/a/azocaos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bachala01",
+      "name": "Lake Bachar",
+      "url": "https://www.baseball-reference.com/players/b/bachala01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bachmsa01",
+      "name": "Sam Bachman",
+      "url": "https://www.baseball-reference.com/players/b/bachmsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "backmwa01",
+      "name": "Wally Backman",
+      "url": "https://www.baseball-reference.com/players/b/backmwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bacusda01",
+      "name": "Dakota Bacus",
+      "url": "https://www.baseball-reference.com/players/b/bacusda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baergca01",
+      "name": "Carlos Baerga",
+      "url": "https://www.baseball-reference.com/players/b/baergca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baileal01",
+      "name": "Alonza Bailey",
+      "url": "https://www.baseball-reference.com/players/b/baileal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bakenda01",
+      "name": "Dave Bakenhaster",
+      "url": "https://www.baseball-reference.com/players/b/bakenda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "balazjo02",
+      "name": "Jordan Balazovic",
+      "url": "https://www.baseball-reference.com/players/b/balazjo02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baldoal01",
+      "name": "Alberto Baldonado",
+      "url": "https://www.baseball-reference.com/players/b/baldoal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bandaan01",
+      "name": "Anthony Banda",
+      "url": "https://www.baseball-reference.com/players/b/bandaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bankhda01",
+      "name": "Dan Bankhead",
+      "url": "https://www.baseball-reference.com/players/b/bankhda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bankhsa01",
+      "name": "Sam Bankhead",
+      "url": "https://www.baseball-reference.com/players/b/bankhsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bannial01",
+      "name": "Alan Bannister",
+      "url": "https://www.baseball-reference.com/players/b/bannial01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bantaja01",
+      "name": "Jack Banta",
+      "url": "https://www.baseball-reference.com/players/b/bantaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barajro01",
+      "name": "Rod Barajas",
+      "url": "https://www.baseball-reference.com/players/b/barajro01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barbawa01",
+      "name": "Walter Barbare",
+      "url": "https://www.baseball-reference.com/players/b/barbawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barbeja01",
+      "name": "William Barbeau",
+      "url": "https://www.baseball-reference.com/players/b/barbeja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barnaba01",
+      "name": "Babe Barna",
+      "url": "https://www.baseball-reference.com/players/b/barnaba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barnach01",
+      "name": "Charlie Barnabe",
+      "url": "https://www.baseball-reference.com/players/b/barnach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barnhed01",
+      "name": "Edgar Barnhart",
+      "url": "https://www.baseball-reference.com/players/b/barnhed01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barojsa01",
+      "name": "Salomé Barojas",
+      "url": "https://www.baseball-reference.com/players/b/barojsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barracu01",
+      "name": "Cuno Barragan",
+      "url": "https://www.baseball-reference.com/players/b/barracu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barrema03",
+      "name": "Manny Barreda",
+      "url": "https://www.baseball-reference.com/players/b/barrema03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barreaa01",
+      "name": "Aaron Barrett",
+      "url": "https://www.baseball-reference.com/players/b/barreaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barrija01",
+      "name": "Jaime Barria",
+      "url": "https://www.baseball-reference.com/players/b/barrija01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "barriyh01",
+      "name": "Yhonathan Barrios",
+      "url": "https://www.baseball-reference.com/players/b/barriyh01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "basalsa01",
+      "name": "Samuel Basallo",
+      "url": "https://www.baseball-reference.com/players/b/basalsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bashaal01",
+      "name": "Al Bashang",
+      "url": "https://www.baseball-reference.com/players/b/bashaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bashara01",
+      "name": "Rabe Bassham",
+      "url": "https://www.baseball-reference.com/players/b/bashara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bastaan01",
+      "name": "Antonio Bastardo",
+      "url": "https://www.baseball-reference.com/players/b/bastaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bastich01",
+      "name": "Charlie Bastian",
+      "url": "https://www.baseball-reference.com/players/b/bastich01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "batesaa01",
+      "name": "Aaron Bates",
+      "url": "https://www.baseball-reference.com/players/b/batesaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "battala01",
+      "name": "Larry Battam",
+      "url": "https://www.baseball-reference.com/players/b/battala01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bauchha01",
+      "name": "Harry Bauchman",
+      "url": "https://www.baseball-reference.com/players/b/bauchha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baumafr01",
+      "name": "Frank Baumann",
+      "url": "https://www.baseball-reference.com/players/b/baumafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baumapa01",
+      "name": "Paddy Baumann",
+      "url": "https://www.baseball-reference.com/players/b/baumapa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baumgha01",
+      "name": "Harry Baumgartner",
+      "url": "https://www.baseball-reference.com/players/b/baumgha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baumgst01",
+      "name": "Stan Baumgartner",
+      "url": "https://www.baseball-reference.com/players/b/baumgst01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bautida01",
+      "name": "Danny Bautista",
+      "url": "https://www.baseball-reference.com/players/b/bautida01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bauzama01",
+      "name": "Marcelino Bauza",
+      "url": "https://www.baseball-reference.com/players/b/bauzama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "baynawi01",
+      "name": "William Baynard",
+      "url": "https://www.baseball-reference.com/players/b/baynawi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bazared01",
+      "name": "Eduard Bazardo",
+      "url": "https://www.baseball-reference.com/players/b/bazared01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bazaryo01",
+      "name": "Yorman Bazardo",
+      "url": "https://www.baseball-reference.com/players/b/bazaryo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bearnla01",
+      "name": "Larry Bearnarth",
+      "url": "https://www.baseball-reference.com/players/b/bearnla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "beavabl01",
+      "name": "Blake Beavan",
+      "url": "https://www.baseball-reference.com/players/b/beavabl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "beavee.01",
+      "name": "Edward Beavan",
+      "url": "https://www.baseball-reference.com/players/b/beavee.01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bellira01",
+      "name": "Rafael Belliard",
+      "url": "https://www.baseball-reference.com/players/b/bellira01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bertafr01",
+      "name": "Frank Bertaina",
+      "url": "https://www.baseball-reference.com/players/b/bertafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "betanra01",
+      "name": "Rafael Betancourt",
+      "url": "https://www.baseball-reference.com/players/b/betanra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "biasaha01",
+      "name": "Hank Biasatti",
+      "url": "https://www.baseball-reference.com/players/b/biasaha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "blacket01",
+      "name": "Ethan Blackaby",
+      "url": "https://www.baseball-reference.com/players/b/blacket01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "blairaa01",
+      "name": "Aaron Blair",
+      "url": "https://www.baseball-reference.com/players/b/blairaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "blancda01",
+      "name": "Damaso Blanco",
+      "url": "https://www.baseball-reference.com/players/b/blancda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "blashja01",
+      "name": "Jabari Blash",
+      "url": "https://www.baseball-reference.com/players/b/blashja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "blasiwa01",
+      "name": "Wade Blasingame",
+      "url": "https://www.baseball-reference.com/players/b/blasiwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "boadalu01",
+      "name": "Lucas Boada",
+      "url": "https://www.baseball-reference.com/players/b/boadalu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "boardch01",
+      "name": "Charlie Boardman",
+      "url": "https://www.baseball-reference.com/players/b/boardch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bocachi01",
+      "name": "Hiram Bocachica",
+      "url": "https://www.baseball-reference.com/players/b/bocachi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bordafr01",
+      "name": "Frenchy Bordagaray",
+      "url": "https://www.baseball-reference.com/players/b/bordafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bournra01",
+      "name": "Rafael Bournigal",
+      "url": "https://www.baseball-reference.com/players/b/bournra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bowlajo01",
+      "name": "Jonathan Bowlan",
+      "url": "https://www.baseball-reference.com/players/b/bowlajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "brackan01",
+      "name": "Andrew Brackman",
+      "url": "https://www.baseball-reference.com/players/b/brackan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bradeda01",
+      "name": "Dallas Braden",
+      "url": "https://www.baseball-reference.com/players/b/bradeda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "bramhar01",
+      "name": "Art Bramhall",
+      "url": "https://www.baseball-reference.com/players/b/bramhar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "brancra01",
+      "name": "Ralph Branca",
+      "url": "https://www.baseball-reference.com/players/b/brancra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "brancal01",
+      "name": "Al Brancato",
+      "url": "https://www.baseball-reference.com/players/b/brancal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "brannja01",
+      "name": "Jack Brannigan",
+      "url": "https://www.baseball-reference.com/players/b/brannja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "brantma01",
+      "name": "Marshall Brant",
+      "url": "https://www.baseball-reference.com/players/b/brantma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "brathar01",
+      "name": "Archie Brathwaite",
+      "url": "https://www.baseball-reference.com/players/b/brathar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "braxtga01",
+      "name": "Garland Braxton",
+      "url": "https://www.baseball-reference.com/players/b/braxtga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "broadla01",
+      "name": "Lance Broadway",
+      "url": "https://www.baseball-reference.com/players/b/broadla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "buchabr01",
+      "name": "Brian Buchanan",
+      "url": "https://www.baseball-reference.com/players/b/buchabr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "buchada01",
+      "name": "David Buchanan",
+      "url": "https://www.baseball-reference.com/players/b/buchada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "buchaja01",
+      "name": "Jake Buchanan",
+      "url": "https://www.baseball-reference.com/players/b/buchaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "budasma01",
+      "name": "Mark Budaska",
+      "url": "https://www.baseball-reference.com/players/b/budasma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "burawda01",
+      "name": "Danny Burawa",
+      "url": "https://www.baseball-reference.com/players/b/burawda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabrace01",
+      "name": "César Cabral",
+      "url": "https://www.baseball-reference.com/players/c/cabrace01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreal03",
+      "name": "Alberto Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreal03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreal02",
+      "name": "Alex Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreal02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreal01",
+      "name": "Alfredo Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreda01",
+      "name": "Daniel Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreed01",
+      "name": "Edwar Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreed01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreed02",
+      "name": "Edward Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreed02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabrefe01",
+      "name": "Fernando Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabrefe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabrefr01",
+      "name": "Francisco Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabrefr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabrema01",
+      "name": "Mauricio Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabrema01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreor01",
+      "name": "Orlando Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreor01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabreos01",
+      "name": "Oswaldo Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabreos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cabrera01",
+      "name": "Ramón Cabrera",
+      "url": "https://www.baseball-reference.com/players/c/cabrera01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "caglija01",
+      "name": "Jac Caglianone",
+      "url": "https://www.baseball-reference.com/players/c/caglija01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callabe01",
+      "name": "Ben Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callabe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callaed01",
+      "name": "Ed Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callaed01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callaji02",
+      "name": "Jim Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callaji02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callani01",
+      "name": "Jimmy Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callani01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callajo01",
+      "name": "Joe Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callaji01",
+      "name": "John Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callaji01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callale01",
+      "name": "Leo Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callale01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callawe01",
+      "name": "Wese Callahan",
+      "url": "https://www.baseball-reference.com/players/c/callawe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callaal01",
+      "name": "Alberto Callaspo",
+      "url": "https://www.baseball-reference.com/players/c/callaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "callami01",
+      "name": "Mickey Callaway",
+      "url": "https://www.baseball-reference.com/players/c/callami01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "calzana01",
+      "name": "Napoleon Calzado",
+      "url": "https://www.baseball-reference.com/players/c/calzana01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "camarja01",
+      "name": "Jair Camargo",
+      "url": "https://www.baseball-reference.com/players/c/camarja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "camarjo01",
+      "name": "Johan Camargo",
+      "url": "https://www.baseball-reference.com/players/c/camarjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "campato01",
+      "name": "Tony Campana",
+      "url": "https://www.baseball-reference.com/players/c/campato01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "camparo01",
+      "name": "Roy Campanella",
+      "url": "https://www.baseball-reference.com/players/c/camparo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "campaal01",
+      "name": "Al Campanis",
+      "url": "https://www.baseball-reference.com/players/c/campaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "campbis01",
+      "name": "Isaiah Campbell",
+      "url": "https://www.baseball-reference.com/players/c/campbis01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "canadji01",
+      "name": "Jim Canada",
+      "url": "https://www.baseball-reference.com/players/c/canadji01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "canavhu01",
+      "name": "Hugh Canavan",
+      "url": "https://www.baseball-reference.com/players/c/canavhu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "canavji01",
+      "name": "Jim Canavan",
+      "url": "https://www.baseball-reference.com/players/c/canavji01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "candaca01",
+      "name": "Casey Candaele",
+      "url": "https://www.baseball-reference.com/players/c/candaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "candejo01",
+      "name": "John Candelaria",
+      "url": "https://www.baseball-reference.com/players/c/candejo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "canhama01",
+      "name": "Mark Canha",
+      "url": "https://www.baseball-reference.com/players/c/canhama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "canizav01",
+      "name": "Avelino Cañizares",
+      "url": "https://www.baseball-reference.com/players/c/canizav01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "canizja01",
+      "name": "Jay Canizaro",
+      "url": "https://www.baseball-reference.com/players/c/canizja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cannawa01",
+      "name": "Walter Cannady",
+      "url": "https://www.baseball-reference.com/players/c/cannawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cannian01",
+      "name": "Andy Cannizaro",
+      "url": "https://www.baseball-reference.com/players/c/cannian01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cannojo02",
+      "name": "Jonathan Cannon",
+      "url": "https://www.baseball-reference.com/players/c/cannojo02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carabes01",
+      "name": "Esterio Caraballo",
+      "url": "https://www.baseball-reference.com/players/c/carabes01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carasma01",
+      "name": "Matt Carasiti",
+      "url": "https://www.baseball-reference.com/players/c/carasma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cardefr01",
+      "name": "Francisco Cárdenas",
+      "url": "https://www.baseball-reference.com/players/c/cardefr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cardico01",
+      "name": "Randy Cardinal",
+      "url": "https://www.baseball-reference.com/players/c/cardico01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cardoja01",
+      "name": "Javier Cardona",
+      "url": "https://www.baseball-reference.com/players/c/cardoja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carides01",
+      "name": "Esmailin Caridad",
+      "url": "https://www.baseball-reference.com/players/c/carides01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carigan01",
+      "name": "Andrew Carignan",
+      "url": "https://www.baseball-reference.com/players/c/carigan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carraca01",
+      "name": "Carlos Carrasco",
+      "url": "https://www.baseball-reference.com/players/c/carraca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carraal01",
+      "name": "Alex Carrasquel",
+      "url": "https://www.baseball-reference.com/players/c/carraal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carream01",
+      "name": "Amalio Carreño",
+      "url": "https://www.baseball-reference.com/players/c/carream01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "carrima01",
+      "name": "Matías Carrillo",
+      "url": "https://www.baseball-reference.com/players/c/carrima01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cascajo01",
+      "name": "Joe Cascarella",
+      "url": "https://www.baseball-reference.com/players/c/cascajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "casiala01",
+      "name": "Larry Casian",
+      "url": "https://www.baseball-reference.com/players/c/casiala01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "casilal01",
+      "name": "Alexi Casilla",
+      "url": "https://www.baseball-reference.com/players/c/casilal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cassaha01",
+      "name": "Harry Cassady",
+      "url": "https://www.baseball-reference.com/players/c/cassaha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "castabl01",
+      "name": "Blas Castano",
+      "url": "https://www.baseball-reference.com/players/c/castabl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "castada01",
+      "name": "Daniel Castano",
+      "url": "https://www.baseball-reference.com/players/c/castada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "castery01",
+      "name": "Ryan Castellani",
+      "url": "https://www.baseball-reference.com/players/c/castery01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "casteal01",
+      "name": "Alex Castellanos",
+      "url": "https://www.baseball-reference.com/players/c/casteal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cattajo01",
+      "name": "John Cattanach",
+      "url": "https://www.baseball-reference.com/players/c/cattajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cavalca01",
+      "name": "Cade Cavalli",
+      "url": "https://www.baseball-reference.com/players/c/cavalca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cavandr01",
+      "name": "Drew Cavanaugh",
+      "url": "https://www.baseball-reference.com/players/c/cavandr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cavanjo01",
+      "name": "John Cavanaugh",
+      "url": "https://www.baseball-reference.com/players/c/cavanjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cavarph01",
+      "name": "Phil Cavarretta",
+      "url": "https://www.baseball-reference.com/players/c/cavarph01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cavazan01",
+      "name": "Andy Cavazos",
+      "url": "https://www.baseball-reference.com/players/c/cavazan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chacial01",
+      "name": "Alejandro Chacín",
+      "url": "https://www.baseball-reference.com/players/c/chacial01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chambcr01",
+      "name": "Craig Chamberlain",
+      "url": "https://www.baseball-reference.com/players/c/chambcr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chambjo03",
+      "name": "Joba Chamberlain",
+      "url": "https://www.baseball-reference.com/players/c/chambjo03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapaan01",
+      "name": "Andrés Chaparro",
+      "url": "https://www.baseball-reference.com/players/c/chapaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmar01",
+      "name": "Aroldis Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmca01",
+      "name": "Calvin Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmed02",
+      "name": "Edward Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmed02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmfr01",
+      "name": "Frank Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmha01",
+      "name": "Harry Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmja01",
+      "name": "Jack Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmja02",
+      "name": "Jaye Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmja02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmle01",
+      "name": "Leonardo Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmle01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmma01",
+      "name": "Matt Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmra01",
+      "name": "Ray Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmsa01",
+      "name": "Sam Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chapmtr01",
+      "name": "Travis Chapman",
+      "url": "https://www.baseball-reference.com/players/c/chapmtr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chappha01",
+      "name": "Harry Chappas",
+      "url": "https://www.baseball-reference.com/players/c/chappha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chatmed01",
+      "name": "Edgar Chatman",
+      "url": "https://www.baseball-reference.com/players/c/chatmed01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "chavaos01",
+      "name": "Ossie Chavarria",
+      "url": "https://www.baseball-reference.com/players/c/chavaos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "citarra01",
+      "name": "Ralph Citarella",
+      "url": "https://www.baseball-reference.com/players/c/citarra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "civalaa01",
+      "name": "Aaron Civale",
+      "url": "https://www.baseball-reference.com/players/c/civalaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "clappaa01",
+      "name": "Aaron Clapp",
+      "url": "https://www.baseball-reference.com/players/c/clappaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "clasejo01",
+      "name": "Jonatan Clase",
+      "url": "https://www.baseball-reference.com/players/c/clasejo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "coachja01",
+      "name": "James Coachman",
+      "url": "https://www.baseball-reference.com/players/c/coachja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "collaal01",
+      "name": "Allan Collamore",
+      "url": "https://www.baseball-reference.com/players/c/collaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "craghho01",
+      "name": "Howard Craghead",
+      "url": "https://www.baseball-reference.com/players/c/craghho01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cravaga01",
+      "name": "Gavy Cravath",
+      "url": "https://www.baseball-reference.com/players/c/cravaga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "cunniaa01",
+      "name": "Aaron Cunningham",
+      "url": "https://www.baseball-reference.com/players/c/cunniaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "dantoja01",
+      "name": "Jamie D'Antona",
+      "url": "https://www.baseball-reference.com/players/d/dantoja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "darnach01",
+      "name": "Chase d'Arnaud",
+      "url": "https://www.baseball-reference.com/players/d/darnach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "darnatr01",
+      "name": "Travis d'Arnaud",
+      "url": "https://www.baseball-reference.com/players/d/darnatr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "daalom01",
+      "name": "Omar Daal",
+      "url": "https://www.baseball-reference.com/players/d/daalom01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "dalesma01",
+      "name": "Mark Dalesandro",
+      "url": "https://www.baseball-reference.com/players/d/dalesma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "dallach01",
+      "name": "Chad Dallas",
+      "url": "https://www.baseball-reference.com/players/d/dallach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "damraha01",
+      "name": "Harry Damrau",
+      "url": "https://www.baseball-reference.com/players/d/damraha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "danaca01",
+      "name": "Caden Dana",
+      "url": "https://www.baseball-reference.com/players/d/danaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "darraja01",
+      "name": "Jack Darragh",
+      "url": "https://www.baseball-reference.com/players/d/darraja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "daubabr01",
+      "name": "Brian Daubach",
+      "url": "https://www.baseball-reference.com/players/d/daubabr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "daviara01",
+      "name": "Ray Daviault",
+      "url": "https://www.baseball-reference.com/players/d/daviara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "davisjo05",
+      "name": "Jonathan Davis",
+      "url": "https://www.baseball-reference.com/players/d/davisjo05.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "davisra01",
+      "name": "Rajai Davis",
+      "url": "https://www.baseball-reference.com/players/d/davisra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "delarda01",
+      "name": "Dane De La Rosa",
+      "url": "https://www.baseball-reference.com/players/d/delarda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "dela_fr01",
+      "name": "Francisco de la Rosa",
+      "url": "https://www.baseball-reference.com/players/d/dela_fr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "delarto01",
+      "name": "Tomás de la Rosa",
+      "url": "https://www.baseball-reference.com/players/d/delarto01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "deanwa01",
+      "name": "Wayland Dean",
+      "url": "https://www.baseball-reference.com/players/d/deanwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "delcaad01",
+      "name": "Adrian Del Castillo",
+      "url": "https://www.baseball-reference.com/players/d/delcaad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "delahfr01",
+      "name": "Frank Delahanty",
+      "url": "https://www.baseball-reference.com/players/d/delahfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "delgara01",
+      "name": "Randall Delgado",
+      "url": "https://www.baseball-reference.com/players/d/delgara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "depause01",
+      "name": "Sean DePaula",
+      "url": "https://www.baseball-reference.com/players/d/depause01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "desclan01",
+      "name": "Anthony DeSclafani",
+      "url": "https://www.baseball-reference.com/players/d/desclan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "diazda01",
+      "name": "Dayán Díaz",
+      "url": "https://www.baseball-reference.com/players/d/diazda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "diazjh01",
+      "name": "Jhonathan Díaz",
+      "url": "https://www.baseball-reference.com/players/d/diazjh01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "diazjo02",
+      "name": "Jonathan Diaz",
+      "url": "https://www.baseball-reference.com/players/d/diazjo02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "disarga01",
+      "name": "Gary Disarcina",
+      "url": "https://www.baseball-reference.com/players/d/disarga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "drahmbr01",
+      "name": "Brian Drahman",
+      "url": "https://www.baseball-reference.com/players/d/drahmbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "dumasla01",
+      "name": "Lafayette Dumas",
+      "url": "https://www.baseball-reference.com/players/d/dumasla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "duncama01",
+      "name": "Mariano Duncan",
+      "url": "https://www.baseball-reference.com/players/d/duncama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "duvalad01",
+      "name": "Adam Duvall",
+      "url": "https://www.baseball-reference.com/players/d/duvalad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "dykstal01",
+      "name": "Allan Dykstra",
+      "url": "https://www.baseball-reference.com/players/d/dykstal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "eatonad01",
+      "name": "Adam Eaton",
+      "url": "https://www.baseball-reference.com/players/e/eatonad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "eatonad02",
+      "name": "Adam Eaton",
+      "url": "https://www.baseball-reference.com/players/e/eatonad02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "echevan01",
+      "name": "Angel Echevarria",
+      "url": "https://www.baseball-reference.com/players/e/echevan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "edwarma01",
+      "name": "Marshall Edwards",
+      "url": "https://www.baseball-reference.com/players/e/edwarma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "encaran01",
+      "name": "Angelo Encarnación",
+      "url": "https://www.baseball-reference.com/players/e/encaran01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "encarje01",
+      "name": "Jerar Encarnacion",
+      "url": "https://www.baseball-reference.com/players/e/encarje01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "encarju01",
+      "name": "Juan Encarnación",
+      "url": "https://www.baseball-reference.com/players/e/encarju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "encarma01",
+      "name": "Mario Encarnación",
+      "url": "https://www.baseball-reference.com/players/e/encarma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "eovalna01",
+      "name": "Nathan Eovaldi",
+      "url": "https://www.baseball-reference.com/players/e/eovalna01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ernagfr01",
+      "name": "Frank Ernaga",
+      "url": "https://www.baseball-reference.com/players/e/ernagfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "espinsa01",
+      "name": "Santiago Espinal",
+      "url": "https://www.baseball-reference.com/players/e/espinsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "espinal01",
+      "name": "Álvaro Espinoza",
+      "url": "https://www.baseball-reference.com/players/e/espinal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "estrafr01",
+      "name": "Frank Estrada",
+      "url": "https://www.baseball-reference.com/players/e/estrafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "estraho01",
+      "name": "Horacio Estrada",
+      "url": "https://www.baseball-reference.com/players/e/estraho01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "estraje01",
+      "name": "Jeremiah Estrada",
+      "url": "https://www.baseball-reference.com/players/e/estraje01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "estrama01",
+      "name": "Marco Estrada",
+      "url": "https://www.baseball-reference.com/players/e/estrama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "estraos01",
+      "name": "Oscar Estrada",
+      "url": "https://www.baseball-reference.com/players/e/estraos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "estrath01",
+      "name": "Thairo Estrada",
+      "url": "https://www.baseball-reference.com/players/e/estrath01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "evelada01",
+      "name": "Dana Eveland",
+      "url": "https://www.baseball-reference.com/players/e/evelada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "faatzja01",
+      "name": "Jay Faatz",
+      "url": "https://www.baseball-reference.com/players/f/faatzja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "fabiasa01",
+      "name": "Sandro Fabian",
+      "url": "https://www.baseball-reference.com/players/f/fabiasa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "fariaja01",
+      "name": "Jake Faria",
+      "url": "https://www.baseball-reference.com/players/f/fariaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "farquda01",
+      "name": "Danny Farquhar",
+      "url": "https://www.baseball-reference.com/players/f/farquda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "fasansa01",
+      "name": "Sal Fasano",
+      "url": "https://www.baseball-reference.com/players/f/fasansa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "fernajo05",
+      "name": "José María Fernández",
+      "url": "https://www.baseball-reference.com/players/f/fernajo05.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ferraal01",
+      "name": "Al Ferrara",
+      "url": "https://www.baseball-reference.com/players/f/ferraal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "flaaja01",
+      "name": "Jay Flaa",
+      "url": "https://www.baseball-reference.com/players/f/flaaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "flagsir01",
+      "name": "Ira Flagstead",
+      "url": "https://www.baseball-reference.com/players/f/flagsir01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "flanaed01",
+      "name": "Ed Flanagan",
+      "url": "https://www.baseball-reference.com/players/f/flanaed01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "flanami01",
+      "name": "Mike Flanagan",
+      "url": "https://www.baseball-reference.com/players/f/flanami01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "flanira01",
+      "name": "Ray Flanigan",
+      "url": "https://www.baseball-reference.com/players/f/flanira01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "flaskro01",
+      "name": "Ray Flaskamper",
+      "url": "https://www.baseball-reference.com/players/f/flaskro01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "fontano01",
+      "name": "Nolan Fontana",
+      "url": "https://www.baseball-reference.com/players/f/fontano01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "fraziad01",
+      "name": "Adam Frazier",
+      "url": "https://www.baseball-reference.com/players/f/fraziad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "furcara02",
+      "name": "Rafael Furcal",
+      "url": "https://www.baseball-reference.com/players/f/furcara02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gabbaka01",
+      "name": "Kason Gabbard",
+      "url": "https://www.baseball-reference.com/players/g/gabbaka01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gabinar01",
+      "name": "Armando Gabino",
+      "url": "https://www.baseball-reference.com/players/g/gabinar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gaffkfa01",
+      "name": "Fabian Gaffke",
+      "url": "https://www.baseball-reference.com/players/g/gaffkfa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gaglira01",
+      "name": "Ralph Gagliano",
+      "url": "https://www.baseball-reference.com/players/g/gaglira01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "galanau01",
+      "name": "Augie Galan",
+      "url": "https://www.baseball-reference.com/players/g/galanau01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallaal01",
+      "name": "Al Gallagher",
+      "url": "https://www.baseball-reference.com/players/g/gallaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallaca01",
+      "name": "Cam Gallagher",
+      "url": "https://www.baseball-reference.com/players/g/gallaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallada01",
+      "name": "Dave Gallagher",
+      "url": "https://www.baseball-reference.com/players/g/gallada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallaja01",
+      "name": "Jackie Gallagher",
+      "url": "https://www.baseball-reference.com/players/g/gallaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallase01",
+      "name": "Sean Gallagher",
+      "url": "https://www.baseball-reference.com/players/g/gallase01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallawi01",
+      "name": "William Gallagher",
+      "url": "https://www.baseball-reference.com/players/g/gallawi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gallayo01",
+      "name": "Yovani Gallardo",
+      "url": "https://www.baseball-reference.com/players/g/gallayo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gamboal01",
+      "name": "Alec Gamboa",
+      "url": "https://www.baseball-reference.com/players/g/gamboal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gamizma01",
+      "name": "Márgaro Gámiz",
+      "url": "https://www.baseball-reference.com/players/g/gamizma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gandagu01",
+      "name": "Gus Gandarillas",
+      "url": "https://www.baseball-reference.com/players/g/gandagu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garagjo01",
+      "name": "Joe Garagiola",
+      "url": "https://www.baseball-reference.com/players/g/garagjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garbeba01",
+      "name": "Bárbaro Garbey",
+      "url": "https://www.baseball-reference.com/players/g/garbeba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garciad02",
+      "name": "Adolis García",
+      "url": "https://www.baseball-reference.com/players/g/garciad02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garciad01",
+      "name": "Adonis García",
+      "url": "https://www.baseball-reference.com/players/g/garciad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcian01",
+      "name": "Anderson García",
+      "url": "https://www.baseball-reference.com/players/g/garcian01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcian02",
+      "name": "Angel García",
+      "url": "https://www.baseball-reference.com/players/g/garcian02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcibr02",
+      "name": "Brandyn Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcibr02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcibr01",
+      "name": "Bryan Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcibr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcica01",
+      "name": "Carlos García",
+      "url": "https://www.baseball-reference.com/players/g/garcica01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcich03",
+      "name": "Chano García",
+      "url": "https://www.baseball-reference.com/players/g/garcich03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcich02",
+      "name": "Christian Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcich02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcida03",
+      "name": "Daniel Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcida03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcida02",
+      "name": "Danny Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcida02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcied01",
+      "name": "Edgar García",
+      "url": "https://www.baseball-reference.com/players/g/garcied01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garciha01",
+      "name": "Harvey García",
+      "url": "https://www.baseball-reference.com/players/g/garciha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcija02",
+      "name": "Jaime García",
+      "url": "https://www.baseball-reference.com/players/g/garcija02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcija04",
+      "name": "Jarlín García",
+      "url": "https://www.baseball-reference.com/players/g/garcija04.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcija03",
+      "name": "Jason García",
+      "url": "https://www.baseball-reference.com/players/g/garcija03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garciju01",
+      "name": "Julian Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garciju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcika01",
+      "name": "Karim García",
+      "url": "https://www.baseball-reference.com/players/g/garcika01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcima01",
+      "name": "Maikel Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcima01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcira02",
+      "name": "Ralph Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcira02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcira01",
+      "name": "Ramon Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcira01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcira03",
+      "name": "Ramón García",
+      "url": "https://www.baseball-reference.com/players/g/garcira03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garcire01",
+      "name": "Reynaldo Garcia",
+      "url": "https://www.baseball-reference.com/players/g/garcire01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garciro01",
+      "name": "Rosman García",
+      "url": "https://www.baseball-reference.com/players/g/garciro01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gardeal01",
+      "name": "Al Gardella",
+      "url": "https://www.baseball-reference.com/players/g/gardeal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gardeda01",
+      "name": "Danny Gardella",
+      "url": "https://www.baseball-reference.com/players/g/gardeda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garibar01",
+      "name": "Art Garibaldi",
+      "url": "https://www.baseball-reference.com/players/g/garibar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garibda01",
+      "name": "Daniel Garibay",
+      "url": "https://www.baseball-reference.com/players/g/garibda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garlawa01",
+      "name": "Wayne Garland",
+      "url": "https://www.baseball-reference.com/players/g/garlawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garread01",
+      "name": "Adrian Garrett",
+      "url": "https://www.baseball-reference.com/players/g/garread01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garzama01",
+      "name": "Matt Garza",
+      "url": "https://www.baseball-reference.com/players/g/garzama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "garzara01",
+      "name": "Ralph Garza",
+      "url": "https://www.baseball-reference.com/players/g/garzara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gaspaha01",
+      "name": "Harry Gaspar",
+      "url": "https://www.baseball-reference.com/players/g/gaspaha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "giarrto01",
+      "name": "Tony Giarratano",
+      "url": "https://www.baseball-reference.com/players/g/giarrto01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gillecl01",
+      "name": "Claral Gillenwater",
+      "url": "https://www.baseball-reference.com/players/g/gillecl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gonzaad01",
+      "name": "Adrián González",
+      "url": "https://www.baseball-reference.com/players/g/gonzaad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahabe01",
+      "name": "Barney Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahabe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahach01",
+      "name": "Charlie Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahada01",
+      "name": "Dan Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahaja01",
+      "name": "Jack Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahaba01",
+      "name": "James Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahaba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahaos01",
+      "name": "Oscar Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahaos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahape01",
+      "name": "Peaches Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahape01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grahawa01",
+      "name": "Wayne Graham",
+      "url": "https://www.baseball-reference.com/players/g/grahawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "gramaal01",
+      "name": "Alex Graman",
+      "url": "https://www.baseball-reference.com/players/g/gramaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "grammal01",
+      "name": "Alex Grammas",
+      "url": "https://www.baseball-reference.com/players/g/grammal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "graveke01",
+      "name": "Kendall Graveman",
+      "url": "https://www.baseball-reference.com/players/g/graveke01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "guevaca01",
+      "name": "Carlos Guevara",
+      "url": "https://www.baseball-reference.com/players/g/guevaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "guevagi01",
+      "name": "Giomar Guevara",
+      "url": "https://www.baseball-reference.com/players/g/guevagi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "guzmasa01",
+      "name": "Santiago Guzmán",
+      "url": "https://www.baseball-reference.com/players/g/guzmasa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "haadya01",
+      "name": "Yamid Haad",
+      "url": "https://www.baseball-reference.com/players/h/haadya01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "haasda01",
+      "name": "Dave Haas",
+      "url": "https://www.baseball-reference.com/players/h/haasda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "haganar01",
+      "name": "Art Hagan",
+      "url": "https://www.baseball-reference.com/players/h/haganar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hagemca01",
+      "name": "Casey Hageman",
+      "url": "https://www.baseball-reference.com/players/h/hagemca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "halamjo01",
+      "name": "John Halama",
+      "url": "https://www.baseball-reference.com/players/h/halamjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hallaro01",
+      "name": "Roy Halladay",
+      "url": "https://www.baseball-reference.com/players/h/hallaro01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hallabi01",
+      "name": "Bill Hallahan",
+      "url": "https://www.baseball-reference.com/players/h/hallabi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hammaat01",
+      "name": "Atlee Hammaker",
+      "url": "https://www.baseball-reference.com/players/h/hammaat01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "handrve01",
+      "name": "Vern Handrahan",
+      "url": "https://www.baseball-reference.com/players/h/handrve01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hanigry01",
+      "name": "Ryan Hanigan",
+      "url": "https://www.baseball-reference.com/players/h/hanigry01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hanneja01",
+      "name": "Jacob Hannemann",
+      "url": "https://www.baseball-reference.com/players/h/hanneja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hanrajo01",
+      "name": "Joel Hanrahan",
+      "url": "https://www.baseball-reference.com/players/h/hanrajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hargeal01",
+      "name": "Alan Hargesheimer",
+      "url": "https://www.baseball-reference.com/players/h/hargeal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hargrch01",
+      "name": "Charlie Hargreaves",
+      "url": "https://www.baseball-reference.com/players/h/hargrch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "harikti01",
+      "name": "Tim Harikkala",
+      "url": "https://www.baseball-reference.com/players/h/harikti01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "harmabr01",
+      "name": "Brad Harman",
+      "url": "https://www.baseball-reference.com/players/h/harmabr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "harshsa01",
+      "name": "Sam Harshaney",
+      "url": "https://www.baseball-reference.com/players/h/harshsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "harshja01",
+      "name": "Jack Harshman",
+      "url": "https://www.baseball-reference.com/players/h/harshja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "harstos01",
+      "name": "Oscar Harstad",
+      "url": "https://www.baseball-reference.com/players/h/harstos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hartgde01",
+      "name": "Dean Hartgraves",
+      "url": "https://www.baseball-reference.com/players/h/hartgde01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hartmch01",
+      "name": "Charlie Hartman",
+      "url": "https://www.baseball-reference.com/players/h/hartmch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hartmga01",
+      "name": "Garrell Hartman",
+      "url": "https://www.baseball-reference.com/players/h/hartmga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hartmry01",
+      "name": "Ryan Hartman",
+      "url": "https://www.baseball-reference.com/players/h/hartmry01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hartrra01",
+      "name": "Ray Hartranft",
+      "url": "https://www.baseball-reference.com/players/h/hartrra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "harveza01",
+      "name": "Zaza Harvey",
+      "url": "https://www.baseball-reference.com/players/h/harveza01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hasegsh01",
+      "name": "Shigetoshi Hasegawa",
+      "url": "https://www.baseball-reference.com/players/h/hasegsh01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "haselad01",
+      "name": "Adam Haseley",
+      "url": "https://www.baseball-reference.com/players/h/haselad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hassabi01",
+      "name": "Bill Hassamaer",
+      "url": "https://www.baseball-reference.com/players/h/hassabi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hassaal01",
+      "name": "Alex Hassan",
+      "url": "https://www.baseball-reference.com/players/h/hassaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hathahi01",
+      "name": "Hilly Hathaway",
+      "url": "https://www.baseball-reference.com/players/h/hathahi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hathast01",
+      "name": "Steve Hathaway",
+      "url": "https://www.baseball-reference.com/players/h/hathast01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "haynena01",
+      "name": "Nathan Haynes",
+      "url": "https://www.baseball-reference.com/players/h/haynena01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "haywara01",
+      "name": "Ray Hayward",
+      "url": "https://www.baseball-reference.com/players/h/haywara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "heasljo01",
+      "name": "Jonathan Heasley",
+      "url": "https://www.baseball-reference.com/players/h/heasljo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "heilmaa01",
+      "name": "Aaron Heilman",
+      "url": "https://www.baseball-reference.com/players/h/heilmaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hernaad01",
+      "name": "Adrián Hernández",
+      "url": "https://www.baseball-reference.com/players/h/hernaad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hernajo02",
+      "name": "Jonathan Hernández",
+      "url": "https://www.baseball-reference.com/players/h/hernajo02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "herrejo03",
+      "name": "Jonathan Herrera",
+      "url": "https://www.baseball-reference.com/players/h/herrejo03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hiralya01",
+      "name": "Yaramil Hiraldo",
+      "url": "https://www.baseball-reference.com/players/h/hiralya01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "hoganha01",
+      "name": "Malachi Hogan",
+      "url": "https://www.baseball-reference.com/players/h/hoganha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "holadbr01",
+      "name": "Bryan Holaday",
+      "url": "https://www.baseball-reference.com/players/h/holadbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "howarca02",
+      "name": "Carrenza Howard",
+      "url": "https://www.baseball-reference.com/players/h/howarca02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ibarred01",
+      "name": "Edgar Ibarra",
+      "url": "https://www.baseball-reference.com/players/i/ibarred01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "igarary01",
+      "name": "Ryota Igarashi",
+      "url": "https://www.baseball-reference.com/players/i/igarary01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ignasga01",
+      "name": "Gary Ignasiak",
+      "url": "https://www.baseball-reference.com/players/i/ignasga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "imaita01",
+      "name": "Tatsuya Imai",
+      "url": "https://www.baseball-reference.com/players/i/imaita01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "indiajo01",
+      "name": "Jonathan India",
+      "url": "https://www.baseball-reference.com/players/i/indiajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ingrach01",
+      "name": "Charlie Ingraham",
+      "url": "https://www.baseball-reference.com/players/i/ingrach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ishiktr01",
+      "name": "Travis Ishikawa",
+      "url": "https://www.baseball-reference.com/players/i/ishiktr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "iwakuhi01",
+      "name": "Hisashi Iwakuma",
+      "url": "https://www.baseball-reference.com/players/i/iwakuhi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "iwamuak01",
+      "name": "Akinori Iwamura",
+      "url": "https://www.baseball-reference.com/players/i/iwamuak01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "jacksda04",
+      "name": "Damian Jackson",
+      "url": "https://www.baseball-reference.com/players/j/jacksda04.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "jakubch01",
+      "name": "Chris Jakubauskas",
+      "url": "https://www.baseball-reference.com/players/j/jakubch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "jaramja01",
+      "name": "Jason Jaramillo",
+      "url": "https://www.baseball-reference.com/players/j/jaramja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "jatapa01",
+      "name": "Paul Jata",
+      "url": "https://www.baseball-reference.com/players/j/jatapa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "jennial01",
+      "name": "Alamazoo Jennings",
+      "url": "https://www.baseball-reference.com/players/j/jennial01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kaaihki01",
+      "name": "Kila Ka'aihue",
+      "url": "https://www.baseball-reference.com/players/k/kaaihki01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kaforja01",
+      "name": "Jake Kafora",
+      "url": "https://www.baseball-reference.com/players/k/kaforja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kalahjo01",
+      "name": "John Kalahan",
+      "url": "https://www.baseball-reference.com/players/k/kalahjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kaprija01",
+      "name": "James Kaprielian",
+      "url": "https://www.baseball-reference.com/players/k/kaprija01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "karinja01",
+      "name": "James Karinchak",
+      "url": "https://www.baseball-reference.com/players/k/karinja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "katama01",
+      "name": "Matt Kata",
+      "url": "https://www.baseball-reference.com/players/k/katama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kauffka01",
+      "name": "Karl Kauffmann",
+      "url": "https://www.baseball-reference.com/players/k/kauffka01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kavadni01",
+      "name": "Niko Kavadas",
+      "url": "https://www.baseball-reference.com/players/k/kavadni01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kavanle01",
+      "name": "Leo Kavanagh",
+      "url": "https://www.baseball-reference.com/players/k/kavanle01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kawakke01",
+      "name": "Kenshin Kawakami",
+      "url": "https://www.baseball-reference.com/players/k/kawakke01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kawasmu01",
+      "name": "Munenori Kawasaki",
+      "url": "https://www.baseball-reference.com/players/k/kawasmu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kazmase01",
+      "name": "Sean Kazmar Jr.",
+      "url": "https://www.baseball-reference.com/players/k/kazmase01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "khalisa01",
+      "name": "Sam Khalifa",
+      "url": "https://www.baseball-reference.com/players/k/khalisa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kidama01",
+      "name": "Masao Kida",
+      "url": "https://www.baseball-reference.com/players/k/kidama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kineris01",
+      "name": "Isiah Kiner-Falefa",
+      "url": "https://www.baseball-reference.com/players/k/kineris01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kolarad01",
+      "name": "Adam Kolarek",
+      "url": "https://www.baseball-reference.com/players/k/kolarad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "komiysa01",
+      "name": "Satoru Komiyama",
+      "url": "https://www.baseball-reference.com/players/k/komiysa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kowalfa01",
+      "name": "Fabian Kowalik",
+      "url": "https://www.baseball-reference.com/players/k/kowalfa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "krakajo01",
+      "name": "Joe Krakauskas",
+      "url": "https://www.baseball-reference.com/players/k/krakajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kurodjo01",
+      "name": "Joshua Kuroda-Grauer",
+      "url": "https://www.baseball-reference.com/players/k/kurodjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kuwatma01",
+      "name": "Masumi Kuwata",
+      "url": "https://www.baseball-reference.com/players/k/kuwatma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "kvasnal01",
+      "name": "Alex Kvasnak",
+      "url": "https://www.baseball-reference.com/players/k/kvasnal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "labanjo01",
+      "name": "Josh Labandeira",
+      "url": "https://www.baseball-reference.com/players/l/labanjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lachema01",
+      "name": "Marcel Lachemann",
+      "url": "https://www.baseball-reference.com/players/l/lachema01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lafatjo01",
+      "name": "Joe Lafata",
+      "url": "https://www.baseball-reference.com/players/l/lafatjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "laffeaa01",
+      "name": "Aaron Laffey",
+      "url": "https://www.baseball-reference.com/players/l/laffeaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lagarju01",
+      "name": "Juan Lagares",
+      "url": "https://www.baseball-reference.com/players/l/lagarju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lahaibr01",
+      "name": "Bryan LaHair",
+      "url": "https://www.baseball-reference.com/players/l/lahaibr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lakemal01",
+      "name": "Al Lakeman",
+      "url": "https://www.baseball-reference.com/players/l/lakemal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamabja01",
+      "name": "Jack Lamabe",
+      "url": "https://www.baseball-reference.com/players/l/lamabja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamanra01",
+      "name": "Ray Lamanno",
+      "url": "https://www.baseball-reference.com/players/l/lamanra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamanfr01",
+      "name": "Frank Lamanske",
+      "url": "https://www.baseball-reference.com/players/l/lamanfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamarcl01",
+      "name": "Clarence Lamar",
+      "url": "https://www.baseball-reference.com/players/l/lamarcl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamarho01",
+      "name": "Horatio Lamar",
+      "url": "https://www.baseball-reference.com/players/l/lamarho01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamarry01",
+      "name": "Ryan LaMarre",
+      "url": "https://www.baseball-reference.com/players/l/lamarry01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lamaswa01",
+      "name": "Wayne LaMaster",
+      "url": "https://www.baseball-reference.com/players/l/lamaswa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lanahdi01",
+      "name": "Dick Lanahan",
+      "url": "https://www.baseball-reference.com/players/l/lanahdi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "landera01",
+      "name": "Rafael Landestoy",
+      "url": "https://www.baseball-reference.com/players/l/landera01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "laneis01",
+      "name": "Isaac Lane",
+      "url": "https://www.baseball-reference.com/players/l/laneis01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lanfrwa01",
+      "name": "Walt Lanfranconi",
+      "url": "https://www.baseball-reference.com/players/l/lanfrwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "langery01",
+      "name": "Ryan Langerhans",
+      "url": "https://www.baseball-reference.com/players/l/langery01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lapalpa01",
+      "name": "Paul LaPalme",
+      "url": "https://www.baseball-reference.com/players/l/lapalpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lapihan01",
+      "name": "Andy Lapihuska",
+      "url": "https://www.baseball-reference.com/players/l/lapihan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "laporma01",
+      "name": "Matt LaPorta",
+      "url": "https://www.baseball-reference.com/players/l/laporma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "laraan01",
+      "name": "Andry Lara",
+      "url": "https://www.baseball-reference.com/players/l/laraan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "laraju01",
+      "name": "Juan Lara",
+      "url": "https://www.baseball-reference.com/players/l/laraju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "larayo01",
+      "name": "Yovanny Lara",
+      "url": "https://www.baseball-reference.com/players/l/larayo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "larocad01",
+      "name": "Adam LaRoche",
+      "url": "https://www.baseball-reference.com/players/l/larocad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lathaar01",
+      "name": "Arlie Latham",
+      "url": "https://www.baseball-reference.com/players/l/lathaar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "latmaba01",
+      "name": "Barry Latman",
+      "url": "https://www.baseball-reference.com/players/l/latmaba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "laurera01",
+      "name": "Ramón Laureano",
+      "url": "https://www.baseball-reference.com/players/l/laurera01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lawinga01",
+      "name": "Garland Lawing",
+      "url": "https://www.baseball-reference.com/players/l/lawinga01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lawlajo01",
+      "name": "Jordan Lawlar",
+      "url": "https://www.baseball-reference.com/players/l/lawlajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "layanti01",
+      "name": "Tim Layana",
+      "url": "https://www.baseball-reference.com/players/l/layanti01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lazarda01",
+      "name": "Danny Lazar",
+      "url": "https://www.baseball-reference.com/players/l/lazarda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lazarma01",
+      "name": "Max Lazar",
+      "url": "https://www.baseball-reference.com/players/l/lazarma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "leachja01",
+      "name": "Jalal Leach",
+      "url": "https://www.baseball-reference.com/players/l/leachja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ledesaa01",
+      "name": "Aaron Ledesma",
+      "url": "https://www.baseball-reference.com/players/l/ledesaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "liberad01",
+      "name": "Adam Liberatore",
+      "url": "https://www.baseball-reference.com/players/l/liberad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "loaizes01",
+      "name": "Esteban Loaiza",
+      "url": "https://www.baseball-reference.com/players/l/loaizes01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lopatst01",
+      "name": "Stan Lopata",
+      "url": "https://www.baseball-reference.com/players/l/lopatst01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "lopatar01",
+      "name": "Art Lopatka",
+      "url": "https://www.baseball-reference.com/players/l/lopatar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "macarma01",
+      "name": "Mac MacArthur",
+      "url": "https://www.baseball-reference.com/players/m/macarma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maccofr01",
+      "name": "Frank MacCormack",
+      "url": "https://www.baseball-reference.com/players/m/maccofr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "macdoha01",
+      "name": "Harvey MacDonald",
+      "url": "https://www.baseball-reference.com/players/m/macdoha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcdonji02",
+      "name": "Malcolm MacDonald",
+      "url": "https://www.baseball-reference.com/players/m/mcdonji02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "macfami01",
+      "name": "Mike Macfarlane",
+      "url": "https://www.baseball-reference.com/players/m/macfami01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "macfada01",
+      "name": "Danny MacFayden",
+      "url": "https://www.baseball-reference.com/players/m/macfada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "machaan01",
+      "name": "Anderson Machado",
+      "url": "https://www.baseball-reference.com/players/m/machaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "machaan02",
+      "name": "Andrés Machado",
+      "url": "https://www.baseball-reference.com/players/m/machaan02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "machama01",
+      "name": "Manny Machado",
+      "url": "https://www.baseball-reference.com/players/m/machama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mackoad01",
+      "name": "Adam Macko",
+      "url": "https://www.baseball-reference.com/players/m/mackoad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maclaev01",
+      "name": "Evan MacLane",
+      "url": "https://www.baseball-reference.com/players/m/maclaev01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "madigto01",
+      "name": "William Madigan",
+      "url": "https://www.baseball-reference.com/players/m/madigto01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "madriwa01",
+      "name": "Warner Madrigal",
+      "url": "https://www.baseball-reference.com/players/m/madriwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maedake01",
+      "name": "Kenta Maeda",
+      "url": "https://www.baseball-reference.com/players/m/maedake01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "magalev01",
+      "name": "Ever Magallanes",
+      "url": "https://www.baseball-reference.com/players/m/magalev01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mahafar01",
+      "name": "Art Mahaffey",
+      "url": "https://www.baseball-reference.com/players/m/mahafar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mahanar01",
+      "name": "Art Mahan",
+      "url": "https://www.baseball-reference.com/players/m/mahanar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maharfr01",
+      "name": "Frank Mahar",
+      "url": "https://www.baseball-reference.com/players/m/maharfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maireos01",
+      "name": "Oswaldo Mairena",
+      "url": "https://www.baseball-reference.com/players/m/maireos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "malarda01",
+      "name": "Dave Malarcher",
+      "url": "https://www.baseball-reference.com/players/m/malarda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "malaych01",
+      "name": "Charlie Malay",
+      "url": "https://www.baseball-reference.com/players/m/malaych01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maldoan01",
+      "name": "Anthony Maldonado",
+      "url": "https://www.baseball-reference.com/players/m/maldoan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maldoca01",
+      "name": "Candy Maldonado",
+      "url": "https://www.baseball-reference.com/players/m/maldoca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maldoca02",
+      "name": "Carlos Maldonado",
+      "url": "https://www.baseball-reference.com/players/m/maldoca02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maldoca03",
+      "name": "Carlos Maldonado",
+      "url": "https://www.baseball-reference.com/players/m/maldoca03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maldoma01",
+      "name": "Martín Maldonado",
+      "url": "https://www.baseball-reference.com/players/m/maldoma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mamaual01",
+      "name": "Al Mamaux",
+      "url": "https://www.baseball-reference.com/players/m/mamaual01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mandaca01",
+      "name": "Carl Manda",
+      "url": "https://www.baseball-reference.com/players/m/mandaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "manelcl01",
+      "name": "Claudio Manela",
+      "url": "https://www.baseball-reference.com/players/m/manelcl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "manguan01",
+      "name": "Ángel Mangual",
+      "url": "https://www.baseball-reference.com/players/m/manguan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "manoaal01",
+      "name": "Alek Manoah",
+      "url": "https://www.baseball-reference.com/players/m/manoaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "manzajo01",
+      "name": "Josías Manzanillo",
+      "url": "https://www.baseball-reference.com/players/m/manzajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "manzara01",
+      "name": "Ravelo Manzanillo",
+      "url": "https://www.baseball-reference.com/players/m/manzara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marakpa01",
+      "name": "Paul Marak",
+      "url": "https://www.baseball-reference.com/players/m/marakpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marange01",
+      "name": "Georges Maranda",
+      "url": "https://www.baseball-reference.com/players/m/marange01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maranra01",
+      "name": "Rabbit Maranville",
+      "url": "https://www.baseball-reference.com/players/m/maranra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marcatu01",
+      "name": "Tucupita Marcano",
+      "url": "https://www.baseball-reference.com/players/m/marcatu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "maricju01",
+      "name": "Juan Marichal",
+      "url": "https://www.baseball-reference.com/players/m/maricju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marimsu01",
+      "name": "Sugar Ray Marimón",
+      "url": "https://www.baseball-reference.com/players/m/marimsu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marjami01",
+      "name": "Mike Marjama",
+      "url": "https://www.baseball-reference.com/players/m/marjami01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshda01",
+      "name": "Dave Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshev01",
+      "name": "Evan Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshev01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshja02",
+      "name": "Jack Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshja02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshja03",
+      "name": "Jack Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshja03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshja01",
+      "name": "Jay Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshma01",
+      "name": "Max Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshse01",
+      "name": "Sean Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshse01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marshwi01",
+      "name": "Willard Marshall",
+      "url": "https://www.baseball-reference.com/players/m/marshwi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "marteda01",
+      "name": "Dámaso Marte",
+      "url": "https://www.baseball-reference.com/players/m/marteda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "martira04",
+      "name": "Rafael Martín",
+      "url": "https://www.baseball-reference.com/players/m/martira04.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "martiad01",
+      "name": "Adrián Martinez",
+      "url": "https://www.baseball-reference.com/players/m/martiad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "martipa04",
+      "name": "Pasqual Martínez",
+      "url": "https://www.baseball-reference.com/players/m/martipa04.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "massisa01",
+      "name": "Salvador Massip",
+      "url": "https://www.baseball-reference.com/players/m/massisa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mastrda01",
+      "name": "Darin Mastroianni",
+      "url": "https://www.baseball-reference.com/players/m/mastrda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "matafr01",
+      "name": "Frank Mata",
+      "url": "https://www.baseball-reference.com/players/m/matafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "matarle01",
+      "name": "Len Matarazzo",
+      "url": "https://www.baseball-reference.com/players/m/matarle01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mathica01",
+      "name": "Carl Mathias",
+      "url": "https://www.baseball-reference.com/players/m/mathica01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mathima01",
+      "name": "Mark Mathias",
+      "url": "https://www.baseball-reference.com/players/m/mathima01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "matospa01",
+      "name": "Pascual Matos",
+      "url": "https://www.baseball-reference.com/players/m/matospa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mattsis01",
+      "name": "Isaac Mattson",
+      "url": "https://www.baseball-reference.com/players/m/mattsis01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "matuzha01",
+      "name": "Harry Matuzak",
+      "url": "https://www.baseball-reference.com/players/m/matuzha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mazeipa01",
+      "name": "Patrick Mazeika",
+      "url": "https://www.baseball-reference.com/players/m/mazeipa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mazurad01",
+      "name": "Adam Mazur",
+      "url": "https://www.baseball-reference.com/players/m/mazurad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcadaja01",
+      "name": "Jack McAdams",
+      "url": "https://www.baseball-reference.com/players/m/mcadaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mccauda01",
+      "name": "Darren McCaughan",
+      "url": "https://www.baseball-reference.com/players/m/mccauda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcclape01",
+      "name": "Pete McClanahan",
+      "url": "https://www.baseball-reference.com/players/m/mcclape01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcdouma01",
+      "name": "Marshall McDougall",
+      "url": "https://www.baseball-reference.com/players/m/mcdouma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcfaral01",
+      "name": "Alex McFarlan",
+      "url": "https://www.baseball-reference.com/players/m/mcfaral01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcfarda01",
+      "name": "Dan McFarlan",
+      "url": "https://www.baseball-reference.com/players/m/mcfarda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcfarch02",
+      "name": "Chappie McFarland",
+      "url": "https://www.baseball-reference.com/players/m/mcfarch02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcfaral02",
+      "name": "Alex McFarlane",
+      "url": "https://www.baseball-reference.com/players/m/mcfaral02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcfaror01",
+      "name": "Orlando McFarlane",
+      "url": "https://www.baseball-reference.com/players/m/mcfaror01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcgafan01",
+      "name": "Andy McGaffigan",
+      "url": "https://www.baseball-reference.com/players/m/mcgafan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcgafpa01",
+      "name": "Patsy McGaffigan",
+      "url": "https://www.baseball-reference.com/players/m/mcgafpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mckiran01",
+      "name": "Andrew McKirahan",
+      "url": "https://www.baseball-reference.com/players/m/mckiran01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcmahja02",
+      "name": "Jack McMahan",
+      "url": "https://www.baseball-reference.com/players/m/mcmahja02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcnambo01",
+      "name": "Bob McNamara",
+      "url": "https://www.baseball-reference.com/players/m/mcnambo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcnamdi01",
+      "name": "Dinny McNamara",
+      "url": "https://www.baseball-reference.com/players/m/mcnamdi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcnamge01",
+      "name": "George McNamara",
+      "url": "https://www.baseball-reference.com/players/m/mcnamge01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcnamji01",
+      "name": "Jim McNamara",
+      "url": "https://www.baseball-reference.com/players/m/mcnamji01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcnamti01",
+      "name": "Tim McNamara",
+      "url": "https://www.baseball-reference.com/players/m/mcnamti01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mcnamto01",
+      "name": "Tom McNamara",
+      "url": "https://www.baseball-reference.com/players/m/mcnamto01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mearach01",
+      "name": "Charlie Meara",
+      "url": "https://www.baseball-reference.com/players/m/mearach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "medinla01",
+      "name": "Lázaro Medina",
+      "url": "https://www.baseball-reference.com/players/m/medinla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "medinra01",
+      "name": "Rafael Medina",
+      "url": "https://www.baseball-reference.com/players/m/medinra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mejiaad01",
+      "name": "Adalberto Mejía",
+      "url": "https://www.baseball-reference.com/players/m/mejiaad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "minneda01",
+      "name": "Dan Minahan",
+      "url": "https://www.baseball-reference.com/players/m/minneda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "minayju01",
+      "name": "Juan Minaya",
+      "url": "https://www.baseball-reference.com/players/m/minayju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "miraban01",
+      "name": "Antonio Mirabal",
+      "url": "https://www.baseball-reference.com/players/m/miraban01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mirabju01",
+      "name": "Juanelo Mirabal",
+      "url": "https://www.baseball-reference.com/players/m/mirabju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "mirabpa01",
+      "name": "Paul Mirabella",
+      "url": "https://www.baseball-reference.com/players/m/mirabpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "miranan01",
+      "name": "Ángel Miranda",
+      "url": "https://www.baseball-reference.com/players/m/miranan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "miranar01",
+      "name": "Aríel Miranda",
+      "url": "https://www.baseball-reference.com/players/m/miranar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "miranju01",
+      "name": "Juan Miranda",
+      "url": "https://www.baseball-reference.com/players/m/miranju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "monahsh01",
+      "name": "Shane Monahan",
+      "url": "https://www.baseball-reference.com/players/m/monahsh01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "moncayo01",
+      "name": "Yoán Moncada",
+      "url": "https://www.baseball-reference.com/players/m/moncayo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "montara01",
+      "name": "Rafael Montalvo",
+      "url": "https://www.baseball-reference.com/players/m/montara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "moragda01",
+      "name": "David Moraga",
+      "url": "https://www.baseball-reference.com/players/m/moragda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "morgaad01",
+      "name": "Adam Morgan",
+      "url": "https://www.baseball-reference.com/players/m/morgaad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nakamno01",
+      "name": "Norihiro Nakamura",
+      "url": "https://www.baseball-reference.com/players/n/nakamno01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nalewfr01",
+      "name": "Frank Naleway",
+      "url": "https://www.baseball-reference.com/players/n/nalewfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "naragha01",
+      "name": "Hal Naragon",
+      "url": "https://www.baseball-reference.com/players/n/naragha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "narvaca01",
+      "name": "Carlos Narváez",
+      "url": "https://www.baseball-reference.com/players/n/narvaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "narvaom01",
+      "name": "Omar Narváez",
+      "url": "https://www.baseball-reference.com/players/n/narvaom01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "natersa01",
+      "name": "Samy Natera",
+      "url": "https://www.baseball-reference.com/players/n/natersa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navada01",
+      "name": "Daniel Nava",
+      "url": "https://www.baseball-reference.com/players/n/navada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navasa01",
+      "name": "Sandy Nava",
+      "url": "https://www.baseball-reference.com/players/n/navasa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navarbr01",
+      "name": "Brian Navarreto",
+      "url": "https://www.baseball-reference.com/players/n/navarbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navared01",
+      "name": "Edgar Navarro",
+      "url": "https://www.baseball-reference.com/players/n/navared01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navarja01",
+      "name": "Jaime Navarro",
+      "url": "https://www.baseball-reference.com/players/n/navarja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navaros01",
+      "name": "Oswaldo Navarro",
+      "url": "https://www.baseball-reference.com/players/n/navaros01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "navarra01",
+      "name": "Raúl Navarro",
+      "url": "https://www.baseball-reference.com/players/n/navarra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "neverdo01",
+      "name": "Dovydas Neverauskas",
+      "url": "https://www.baseball-reference.com/players/n/neverdo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "newmaal02",
+      "name": "Alan Newman",
+      "url": "https://www.baseball-reference.com/players/n/newmaal02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nolaaa01",
+      "name": "Aaron Nola",
+      "url": "https://www.baseball-reference.com/players/n/nolaaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nomurta01",
+      "name": "Takahito Nomura",
+      "url": "https://www.baseball-reference.com/players/n/nomurta01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nootbla01",
+      "name": "Lars Nootbaar",
+      "url": "https://www.baseball-reference.com/players/n/nootbla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "northaa01",
+      "name": "Aaron Northcraft",
+      "url": "https://www.baseball-reference.com/players/n/northaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "novoara01",
+      "name": "Rafael Novoa",
+      "url": "https://www.baseball-reference.com/players/n/novoara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nunezab01",
+      "name": "Abraham Núñez",
+      "url": "https://www.baseball-reference.com/players/n/nunezab01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nunezab02",
+      "name": "Abraham Núñez",
+      "url": "https://www.baseball-reference.com/players/n/nunezab02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "nunnata01",
+      "name": "Talmadge Nunnari",
+      "url": "https://www.baseball-reference.com/players/n/nunnata01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "o'hagha01",
+      "name": "Hal O'Hagan",
+      "url": "https://www.baseball-reference.com/players/o/o'hagha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "okamoka01",
+      "name": "Kazuma Okamoto",
+      "url": "https://www.baseball-reference.com/players/o/okamoka01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "orneljo01",
+      "name": "Jonathan Ornelas",
+      "url": "https://www.baseball-reference.com/players/o/orneljo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ortegra01",
+      "name": "Rafael Ortega",
+      "url": "https://www.baseball-reference.com/players/o/ortegra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "osunaal02",
+      "name": "Alejandro Osuna",
+      "url": "https://www.baseball-reference.com/players/o/osunaal02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ottavad01",
+      "name": "Adam Ottavino",
+      "url": "https://www.baseball-reference.com/players/o/ottavad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "padilju01",
+      "name": "Juan Padilla",
+      "url": "https://www.baseball-reference.com/players/p/padilju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "padilni01",
+      "name": "Nicholas Padilla",
+      "url": "https://www.baseball-reference.com/players/p/padilni01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "paganan01",
+      "name": "Ángel Pagán",
+      "url": "https://www.baseball-reference.com/players/p/paganan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "paganda01",
+      "name": "Dave Pagan",
+      "url": "https://www.baseball-reference.com/players/p/paganda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "palacje01",
+      "name": "Jermaine Palacios",
+      "url": "https://www.baseball-reference.com/players/p/palacje01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "palacjo01",
+      "name": "Joshua Palacios",
+      "url": "https://www.baseball-reference.com/players/p/palacjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "palenda01",
+      "name": "Daniel Palencia",
+      "url": "https://www.baseball-reference.com/players/p/palenda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "palkada01",
+      "name": "Daniel Palka",
+      "url": "https://www.baseball-reference.com/players/p/palkada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pallaan01",
+      "name": "Andre Pallante",
+      "url": "https://www.baseball-reference.com/players/p/pallaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "palmera01",
+      "name": "Rafael Palmeiro",
+      "url": "https://www.baseball-reference.com/players/p/palmera01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "paniajo01",
+      "name": "José Paniagua",
+      "url": "https://www.baseball-reference.com/players/p/paniajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "papaial01",
+      "name": "Al Papai",
+      "url": "https://www.baseball-reference.com/players/p/papaial01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "papeljo01",
+      "name": "Jonathan Papelbon",
+      "url": "https://www.baseball-reference.com/players/p/papeljo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pappajo01",
+      "name": "John Pappalau",
+      "url": "https://www.baseball-reference.com/players/p/pappajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "paredis01",
+      "name": "Isaac Paredes",
+      "url": "https://www.baseball-reference.com/players/p/paredis01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "parrage01",
+      "name": "Gerardo Parra",
+      "url": "https://www.baseball-reference.com/players/p/parrage01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "parrama01",
+      "name": "Manny Parra",
+      "url": "https://www.baseball-reference.com/players/p/parrama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "parrama02",
+      "name": "Manuel Parrado",
+      "url": "https://www.baseball-reference.com/players/p/parrama02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "parrisa01",
+      "name": "Sam Parrilla",
+      "url": "https://www.baseball-reference.com/players/p/parrisa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pascuca02",
+      "name": "Camilo Pascual",
+      "url": "https://www.baseball-reference.com/players/p/pascuca02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pascuca01",
+      "name": "Carlos Pascual",
+      "url": "https://www.baseball-reference.com/players/p/pascuca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pasquda01",
+      "name": "Dan Pasqua",
+      "url": "https://www.baseball-reference.com/players/p/pasquda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "passecl01",
+      "name": "Claude Passeau",
+      "url": "https://www.baseball-reference.com/players/p/passecl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "paulaca01",
+      "name": "Carlos Paula",
+      "url": "https://www.baseball-reference.com/players/p/paulaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "paulegr01",
+      "name": "Graham Pauley",
+      "url": "https://www.baseball-reference.com/players/p/paulegr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pavanca01",
+      "name": "Carl Pavano",
+      "url": "https://www.baseball-reference.com/players/p/pavanca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pavlada01",
+      "name": "Dave Pavlas",
+      "url": "https://www.baseball-reference.com/players/p/pavlada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "penaal01",
+      "name": "Alejandro Peña",
+      "url": "https://www.baseball-reference.com/players/p/penaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "penabr01",
+      "name": "Brayan Peña",
+      "url": "https://www.baseball-reference.com/players/p/penabr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "peralda01",
+      "name": "David Peralta",
+      "url": "https://www.baseball-reference.com/players/p/peralda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "peralsa01",
+      "name": "Sammy Peralta",
+      "url": "https://www.baseball-reference.com/players/p/peralsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "peralwa01",
+      "name": "Wandy Peralta",
+      "url": "https://www.baseball-reference.com/players/p/peralwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "perazos02",
+      "name": "Oswald Peraza",
+      "url": "https://www.baseball-reference.com/players/p/perazos02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "perazos01",
+      "name": "Oswaldo Peraza",
+      "url": "https://www.baseball-reference.com/players/p/perazos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pfaadbr01",
+      "name": "Brandon Pfaadt",
+      "url": "https://www.baseball-reference.com/players/p/pfaadbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "piattad01",
+      "name": "Adam Piatt",
+      "url": "https://www.baseball-reference.com/players/p/piattad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "pintajo01",
+      "name": "Jonathan Pintaro",
+      "url": "https://www.baseball-reference.com/players/p/pintajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "polanra01",
+      "name": "Rafael Polanco",
+      "url": "https://www.baseball-reference.com/players/p/polanra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "poredaa01",
+      "name": "Aaron Poreda",
+      "url": "https://www.baseball-reference.com/players/p/poredaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "quezajo01",
+      "name": "Johan Quezada",
+      "url": "https://www.baseball-reference.com/players/q/quezajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "quintca01",
+      "name": "Carlos Quintana",
+      "url": "https://www.baseball-reference.com/players/q/quintca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "quintom01",
+      "name": "Omar Quintanilla",
+      "url": "https://www.baseball-reference.com/players/q/quintom01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "raabebr01",
+      "name": "Brian Raabe",
+      "url": "https://www.baseball-reference.com/players/r/raabebr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "radmary01",
+      "name": "Ryan Radmanovich",
+      "url": "https://www.baseball-reference.com/players/r/radmary01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "reagari01",
+      "name": "Arthur Ragan",
+      "url": "https://www.baseball-reference.com/players/r/reagari01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "raganpa01",
+      "name": "Pat Ragan",
+      "url": "https://www.baseball-reference.com/players/r/raganpa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "raglafr01",
+      "name": "Frank Ragland",
+      "url": "https://www.baseball-reference.com/players/r/raglafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ragsdca01",
+      "name": "Carson Ragsdale",
+      "url": "https://www.baseball-reference.com/players/r/ragsdca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rakeraa01",
+      "name": "Aaron Rakers",
+      "url": "https://www.baseball-reference.com/players/r/rakeraa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ramiral01",
+      "name": "Allan Ramirez",
+      "url": "https://www.baseball-reference.com/players/r/ramiral01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ramirar01",
+      "name": "Aramis Ramírez",
+      "url": "https://www.baseball-reference.com/players/r/ramirar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ramirra01",
+      "name": "Rafael Ramírez",
+      "url": "https://www.baseball-reference.com/players/r/ramirra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ramirsa01",
+      "name": "Santiago Ramírez",
+      "url": "https://www.baseball-reference.com/players/r/ramirsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ranauan01",
+      "name": "Anthony Ranaudo",
+      "url": "https://www.baseball-reference.com/players/r/ranauan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "randasa01",
+      "name": "Sap Randall",
+      "url": "https://www.baseball-reference.com/players/r/randasa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "randawi01",
+      "name": "William Randall",
+      "url": "https://www.baseball-reference.com/players/r/randawi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rangeal01",
+      "name": "Alan Rangel",
+      "url": "https://www.baseball-reference.com/players/r/rangeal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rautzla01",
+      "name": "Lance Rautzhan",
+      "url": "https://www.baseball-reference.com/players/r/rautzla01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rayama01",
+      "name": "Marco Raya",
+      "url": "https://www.baseball-reference.com/players/r/rayama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "raziaba01",
+      "name": "Barry Raziano",
+      "url": "https://www.baseball-reference.com/players/r/raziaba01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ribalor01",
+      "name": "Orlando Ribalta",
+      "url": "https://www.baseball-reference.com/players/r/ribalor01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "richaan01",
+      "name": "Antoan Richardson",
+      "url": "https://www.baseball-reference.com/players/r/richaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "richata01",
+      "name": "Talmadge Richardson",
+      "url": "https://www.baseball-reference.com/players/r/richata01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "riverma01",
+      "name": "Mariano Rivera",
+      "url": "https://www.baseball-reference.com/players/r/riverma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rocapad01",
+      "name": "Adam Rocap",
+      "url": "https://www.baseball-reference.com/players/r/rocapad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rosalad01",
+      "name": "Adam Rosales",
+      "url": "https://www.baseball-reference.com/players/r/rosalad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rosarsa01",
+      "name": "Santiago Rosario",
+      "url": "https://www.baseball-reference.com/players/r/rosarsa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "rowanaa01",
+      "name": "Aaron Rowand",
+      "url": "https://www.baseball-reference.com/players/r/rowanaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sabatc.01",
+      "name": "CC Sabathia",
+      "url": "https://www.baseball-reference.com/players/s/sabatc.01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "saccoma01",
+      "name": "Mark Saccomanno",
+      "url": "https://www.baseball-reference.com/players/s/saccoma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sackafr01",
+      "name": "Frank Sacka",
+      "url": "https://www.baseball-reference.com/players/s/sackafr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "saitota01",
+      "name": "Takashi Saito",
+      "url": "https://www.baseball-reference.com/players/s/saitota01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sakatle01",
+      "name": "Lenn Sakata",
+      "url": "https://www.baseball-reference.com/players/s/sakatle01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salasfe01",
+      "name": "Fernando Salas",
+      "url": "https://www.baseball-reference.com/players/s/salasfe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salasju01",
+      "name": "Juan Salas",
+      "url": "https://www.baseball-reference.com/players/s/salasju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salasma02",
+      "name": "Marino Salas",
+      "url": "https://www.baseball-reference.com/players/s/salasma02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salasma01",
+      "name": "Mark Salas",
+      "url": "https://www.baseball-reference.com/players/s/salasma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salazje01",
+      "name": "Jeff Salazar",
+      "url": "https://www.baseball-reference.com/players/s/salazje01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salazlu01",
+      "name": "Luis Salazar",
+      "url": "https://www.baseball-reference.com/players/s/salazlu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "saltzja01",
+      "name": "Jack Saltzgaver",
+      "url": "https://www.baseball-reference.com/players/s/saltzja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "salvama01",
+      "name": "Manuel Salvat",
+      "url": "https://www.baseball-reference.com/players/s/salvama01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "samarje01",
+      "name": "Jeff Samardzija",
+      "url": "https://www.baseball-reference.com/players/s/samarje01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sampsad01",
+      "name": "Adrian Sampson",
+      "url": "https://www.baseball-reference.com/players/s/sampsad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "samueam01",
+      "name": "Amado Samuel",
+      "url": "https://www.baseball-reference.com/players/s/samueam01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanchaa01",
+      "name": "Aaron Sanchez",
+      "url": "https://www.baseball-reference.com/players/s/sanchaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanchad01",
+      "name": "Adrián Sánchez",
+      "url": "https://www.baseball-reference.com/players/s/sanchad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanchal01",
+      "name": "Alejandro Sánchez",
+      "url": "https://www.baseball-reference.com/players/s/sanchal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanchan01",
+      "name": "Aníbal Sánchez",
+      "url": "https://www.baseball-reference.com/players/s/sanchan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanchjo01",
+      "name": "Jonathan Sánchez",
+      "url": "https://www.baseball-reference.com/players/s/sanchjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sandoda01",
+      "name": "Danny Sandoval",
+      "url": "https://www.baseball-reference.com/players/s/sandoda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sandopa01",
+      "name": "Pablo Sandoval",
+      "url": "https://www.baseball-reference.com/players/s/sandopa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sandopa02",
+      "name": "Patrick Sandoval",
+      "url": "https://www.baseball-reference.com/players/s/sandopa02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanitam01",
+      "name": "Amauri Sanit",
+      "url": "https://www.baseball-reference.com/players/s/sanitam01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sanojja01",
+      "name": "Javier Sanoja",
+      "url": "https://www.baseball-reference.com/players/s/sanojja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santaal01",
+      "name": "Alimber Santa",
+      "url": "https://www.baseball-reference.com/players/s/santaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santade01",
+      "name": "Dennis Santana",
+      "url": "https://www.baseball-reference.com/players/s/santade01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santado01",
+      "name": "Domingo Santana",
+      "url": "https://www.baseball-reference.com/players/s/santado01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santaer01",
+      "name": "Ervin Santana",
+      "url": "https://www.baseball-reference.com/players/s/santaer01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santaju01",
+      "name": "Julio Santana",
+      "url": "https://www.baseball-reference.com/players/s/santaju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santape01",
+      "name": "Pedro Santana",
+      "url": "https://www.baseball-reference.com/players/s/santape01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santaan02",
+      "name": "Anthony Santander",
+      "url": "https://www.baseball-reference.com/players/s/santaan02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santica01",
+      "name": "Carlos Santiago",
+      "url": "https://www.baseball-reference.com/players/s/santica01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santira01",
+      "name": "Ramón Santiago",
+      "url": "https://www.baseball-reference.com/players/s/santira01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "santora01",
+      "name": "Rafael Santo Domingo",
+      "url": "https://www.baseball-reference.com/players/s/santora01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sardida01",
+      "name": "Dane Sardinha",
+      "url": "https://www.baseball-reference.com/players/s/sardida01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sasakka01",
+      "name": "Kazuhiro Sasaki",
+      "url": "https://www.baseball-reference.com/players/s/sasakka01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "savagja01",
+      "name": "Jack Savage",
+      "url": "https://www.baseball-reference.com/players/s/savagja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sawatca01",
+      "name": "Carl Sawatski",
+      "url": "https://www.baseball-reference.com/players/s/sawatca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "scanlfr01",
+      "name": "Frank Scanlan",
+      "url": "https://www.baseball-reference.com/players/s/scanlfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "schaapa01",
+      "name": "Paul Schaal",
+      "url": "https://www.baseball-reference.com/players/s/schaapa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "schialo01",
+      "name": "Lou Schiappacasse",
+      "url": "https://www.baseball-reference.com/players/s/schialo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "schrapa01",
+      "name": "Paul Schramka",
+      "url": "https://www.baseball-reference.com/players/s/schrapa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "searara01",
+      "name": "Ray Searage",
+      "url": "https://www.baseball-reference.com/players/s/searara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "seminfr01",
+      "name": "Frank Seminara",
+      "url": "https://www.baseball-reference.com/players/s/seminfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "senzaan01",
+      "name": "Antonio Senzatela",
+      "url": "https://www.baseball-reference.com/players/s/senzaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "serrawa01",
+      "name": "Wascar Serrano",
+      "url": "https://www.baseball-reference.com/players/s/serrawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "shannwa01",
+      "name": "Warren Shanabrook",
+      "url": "https://www.baseball-reference.com/players/s/shannwa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "shanagr01",
+      "name": "Greg Shanahan",
+      "url": "https://www.baseball-reference.com/players/s/shanagr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "sharmra01",
+      "name": "Ralph Sharman",
+      "url": "https://www.baseball-reference.com/players/s/sharmra01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ryanjo03",
+      "name": "Dan Sheahan",
+      "url": "https://www.baseball-reference.com/players/r/ryanjo03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "shelbhi01",
+      "name": "Hiawatha Shelby",
+      "url": "https://www.baseball-reference.com/players/s/shelbhi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "skaugda01",
+      "name": "Dave Skaugstad",
+      "url": "https://www.baseball-reference.com/players/s/skaugda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "slamaan01",
+      "name": "Anthony Slama",
+      "url": "https://www.baseball-reference.com/players/s/slamaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "slanida01",
+      "name": "Dan Slania",
+      "url": "https://www.baseball-reference.com/players/s/slanida01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "smajscr01",
+      "name": "Craig Smajstrla",
+      "url": "https://www.baseball-reference.com/players/s/smajscr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "smallaa01",
+      "name": "Aaron Small",
+      "url": "https://www.baseball-reference.com/players/s/smallaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "solanjh01",
+      "name": "Jhonatan Solano",
+      "url": "https://www.baseball-reference.com/players/s/solanjh01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "soriara01",
+      "name": "Rafael Soriano",
+      "url": "https://www.baseball-reference.com/players/s/soriara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "spearch01",
+      "name": "Charlie Spearman",
+      "url": "https://www.baseball-reference.com/players/s/spearch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "stalltr01",
+      "name": "Tracy Stallard",
+      "url": "https://www.baseball-reference.com/players/s/stalltr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "stanaos01",
+      "name": "Oscar Stanage",
+      "url": "https://www.baseball-reference.com/players/s/stanaos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "stantmi03",
+      "name": "Giancarlo Stanton",
+      "url": "https://www.baseball-reference.com/players/s/stantmi03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "stranal01",
+      "name": "Alan Strange",
+      "url": "https://www.baseball-reference.com/players/s/stranal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "stratas01",
+      "name": "Asa Stratton",
+      "url": "https://www.baseball-reference.com/players/s/stratas01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "swaciha01",
+      "name": "Harry Swacina",
+      "url": "https://www.baseball-reference.com/players/s/swaciha01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "swartda01",
+      "name": "Dave Swartzbaugh",
+      "url": "https://www.baseball-reference.com/players/s/swartda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "swarzan01",
+      "name": "Anthony Swarzak",
+      "url": "https://www.baseball-reference.com/players/s/swarzan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "syndeno01",
+      "name": "Noah Syndergaard",
+      "url": "https://www.baseball-reference.com/players/s/syndeno01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tabakje01",
+      "name": "Jeff Tabaka",
+      "url": "https://www.baseball-reference.com/players/t/tabakje01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tabatjo01",
+      "name": "José Tábata",
+      "url": "https://www.baseball-reference.com/players/t/tabatjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tadanka01",
+      "name": "Kazuhito Tadano",
+      "url": "https://www.baseball-reference.com/players/t/tadanka01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "takahke01",
+      "name": "Ken Takahashi",
+      "url": "https://www.baseball-reference.com/players/t/takahke01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tanakke01",
+      "name": "Kensuke Tanaka",
+      "url": "https://www.baseball-reference.com/players/t/tanakke01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tapiara01",
+      "name": "Raimel Tapia",
+      "url": "https://www.baseball-reference.com/players/t/tapiara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tappawa01",
+      "name": "Van Tappan",
+      "url": "https://www.baseball-reference.com/players/t/tappawa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tarraja01",
+      "name": "Jamuel Tarrant",
+      "url": "https://www.baseball-reference.com/players/t/tarraja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tartada01",
+      "name": "Danny Tartabull",
+      "url": "https://www.baseball-reference.com/players/t/tartada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tatajo01",
+      "name": "Jordan Tata",
+      "url": "https://www.baseball-reference.com/players/t/tatajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tateyyo01",
+      "name": "Yoshinori Tateyama",
+      "url": "https://www.baseball-reference.com/players/t/tateyyo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tavarju01",
+      "name": "Julián Tavárez",
+      "url": "https://www.baseball-reference.com/players/t/tavarju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "taveral01",
+      "name": "Alex Taveras",
+      "url": "https://www.baseball-reference.com/players/t/taveral01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "taverfr01",
+      "name": "Frank Taveras",
+      "url": "https://www.baseball-reference.com/players/t/taverfr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "taveros01",
+      "name": "Oscar Taveras",
+      "url": "https://www.baseball-reference.com/players/t/taveros01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tayloaa01",
+      "name": "Aaron Taylor",
+      "url": "https://www.baseball-reference.com/players/t/tayloaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tayloar01",
+      "name": "Arlas Taylor",
+      "url": "https://www.baseball-reference.com/players/t/tayloar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "taylogr01",
+      "name": "Graham Taylor",
+      "url": "https://www.baseball-reference.com/players/t/taylogr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "taylomi02",
+      "name": "Michael A. Taylor",
+      "url": "https://www.baseball-reference.com/players/t/taylomi02.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "taylosa04",
+      "name": "Samad Taylor",
+      "url": "https://www.baseball-reference.com/players/t/taylosa04.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tazawju01",
+      "name": "Junichi Tazawa",
+      "url": "https://www.baseball-reference.com/players/t/tazawju01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "teagata01",
+      "name": "Taylor Teagarden",
+      "url": "https://www.baseball-reference.com/players/t/teagata01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "telemam01",
+      "name": "Amaury Telemaco",
+      "url": "https://www.baseball-reference.com/players/t/telemam01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "texeika01",
+      "name": "Kanekoa Texeira",
+      "url": "https://www.baseball-reference.com/players/t/texeika01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "tomasya01",
+      "name": "Yasmany Tomás",
+      "url": "https://www.baseball-reference.com/players/t/tomasya01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "toroab01",
+      "name": "Abraham Toro",
+      "url": "https://www.baseball-reference.com/players/t/toroab01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "torrepa01",
+      "name": "Pablo Torrealba",
+      "url": "https://www.baseball-reference.com/players/t/torrepa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "trahabl01",
+      "name": "Blake Trahan",
+      "url": "https://www.baseball-reference.com/players/t/trahabl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "trammal01",
+      "name": "Alan Trammell",
+      "url": "https://www.baseball-reference.com/players/t/trammal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "traveal01",
+      "name": "Allan Travers",
+      "url": "https://www.baseball-reference.com/players/t/traveal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valaich01",
+      "name": "Chris Valaika",
+      "url": "https://www.baseball-reference.com/players/v/valaich01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valdera01",
+      "name": "Rafael Valdez",
+      "url": "https://www.baseball-reference.com/players/v/valdera01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valenda01",
+      "name": "Danny Valencia",
+      "url": "https://www.baseball-reference.com/players/v/valenda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valened01",
+      "name": "Eduardo Valencia",
+      "url": "https://www.baseball-reference.com/players/v/valened01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valenbr01",
+      "name": "Brandon Valenzuela",
+      "url": "https://www.baseball-reference.com/players/v/valenbr01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valenfe01",
+      "name": "Fernando Valenzuela",
+      "url": "https://www.baseball-reference.com/players/v/valenfe01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "valeryo01",
+      "name": "Yohanny Valera",
+      "url": "https://www.baseball-reference.com/players/v/valeryo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vanalcl01",
+      "name": "Clay Van Alstyne",
+      "url": "https://www.baseball-reference.com/players/v/vanalcl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vanatru01",
+      "name": "Russ Van Atta",
+      "url": "https://www.baseball-reference.com/players/v/vanatru01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vanbroz01",
+      "name": "Ozzie Van Brabant",
+      "url": "https://www.baseball-reference.com/players/v/vanbroz01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vancaal01",
+      "name": "Al Van Camp",
+      "url": "https://www.baseball-reference.com/players/v/vancaal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vanevjo01",
+      "name": "Jonathan Van Every",
+      "url": "https://www.baseball-reference.com/players/v/vanevjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vanroma01",
+      "name": "Maurice Van Robays",
+      "url": "https://www.baseball-reference.com/players/v/vanroma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vandaca01",
+      "name": "Carl Vandagrift",
+      "url": "https://www.baseball-reference.com/players/v/vandaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vargaan01",
+      "name": "Andy Varga",
+      "url": "https://www.baseball-reference.com/players/v/vargaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vargaca01",
+      "name": "Carlos Vargas",
+      "url": "https://www.baseball-reference.com/players/v/vargaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vargace01",
+      "name": "César Vargas",
+      "url": "https://www.baseball-reference.com/players/v/vargace01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vargacl01",
+      "name": "Claudio Vargas",
+      "url": "https://www.baseball-reference.com/players/v/vargacl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vargail01",
+      "name": "Ildemaro Vargas",
+      "url": "https://www.baseball-reference.com/players/v/vargail01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vargaja01",
+      "name": "Jason Vargas",
+      "url": "https://www.baseball-reference.com/players/v/vargaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "varonor01",
+      "name": "Orlando Varona",
+      "url": "https://www.baseball-reference.com/players/v/varonor01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "varvaan01",
+      "name": "Anthony Varvaro",
+      "url": "https://www.baseball-reference.com/players/v/varvaan01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vasqura01",
+      "name": "Rafael Vásquez",
+      "url": "https://www.baseball-reference.com/players/v/vasqura01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vaughar01",
+      "name": "Arky Vaughan",
+      "url": "https://www.baseball-reference.com/players/v/vaughar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vaughch01",
+      "name": "Charlie Vaughan",
+      "url": "https://www.baseball-reference.com/players/v/vaughch01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "vazquar01",
+      "name": "Armando Vázquez",
+      "url": "https://www.baseball-reference.com/players/v/vazquar01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "villaca01",
+      "name": "Carlos Villanueva",
+      "url": "https://www.baseball-reference.com/players/v/villaca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "villach01",
+      "name": "Christian Villanueva",
+      "url": "https://www.baseball-reference.com/players/v/villach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "villajo01",
+      "name": "Jonathan Villar",
+      "url": "https://www.baseball-reference.com/players/v/villajo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "villaos01",
+      "name": "Óscar Villarreal",
+      "url": "https://www.baseball-reference.com/players/v/villaos01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wachami01",
+      "name": "Michael Wacha",
+      "url": "https://www.baseball-reference.com/players/w/wachami01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wagamer01",
+      "name": "Eric Wagaman",
+      "url": "https://www.baseball-reference.com/players/w/wagamer01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wagueja01",
+      "name": "Jacob Waguespack",
+      "url": "https://www.baseball-reference.com/players/w/wagueja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wainwad01",
+      "name": "Adam Wainwright",
+      "url": "https://www.baseball-reference.com/players/w/wainwad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wakamdo01",
+      "name": "Don Wakamatsu",
+      "url": "https://www.baseball-reference.com/players/w/wakamdo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "walkead01",
+      "name": "Admiral Walker",
+      "url": "https://www.baseball-reference.com/players/w/walkead01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "walketa01",
+      "name": "Taijuan Walker",
+      "url": "https://www.baseball-reference.com/players/w/walketa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wallada01",
+      "name": "Dave Wallace",
+      "url": "https://www.baseball-reference.com/players/w/wallada01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wallaja01",
+      "name": "Jack Wallace",
+      "url": "https://www.baseball-reference.com/players/w/wallaja01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wallaja03",
+      "name": "Jack Wallace",
+      "url": "https://www.baseball-reference.com/players/w/wallaja03.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wallach01",
+      "name": "Chad Wallach",
+      "url": "https://www.baseball-reference.com/players/w/wallach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "wardaa01",
+      "name": "Aaron Ward",
+      "url": "https://www.baseball-reference.com/players/w/wardaa01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "warread01",
+      "name": "Adam Warren",
+      "url": "https://www.baseball-reference.com/players/w/warread01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "williad01",
+      "name": "Adam Williams",
+      "url": "https://www.baseball-reference.com/players/w/williad01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "willial04",
+      "name": "Alika Williams",
+      "url": "https://www.baseball-reference.com/players/w/willial04.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "williri01",
+      "name": "Alva Williams",
+      "url": "https://www.baseball-reference.com/players/w/williri01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "willida05",
+      "name": "Dallas Williams",
+      "url": "https://www.baseball-reference.com/players/w/willida05.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "willida06",
+      "name": "Dana Williams",
+      "url": "https://www.baseball-reference.com/players/w/willida06.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "willist01",
+      "name": "Steamboat Williams",
+      "url": "https://www.baseball-reference.com/players/w/willist01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "winanal01",
+      "name": "Allan Winans",
+      "url": "https://www.baseball-reference.com/players/w/winanal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "yabutya01",
+      "name": "Yasuhiko Yabuta",
+      "url": "https://www.baseball-reference.com/players/y/yabutya01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "yamamjo01",
+      "name": "Jordan Yamamoto",
+      "url": "https://www.baseball-reference.com/players/y/yamamjo01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "yaryaya01",
+      "name": "Yam Yaryan",
+      "url": "https://www.baseball-reference.com/players/y/yaryaya01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "yeatmbi01",
+      "name": "Samuel Yeatman",
+      "url": "https://www.baseball-reference.com/players/y/yeatmbi01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ynoahu01",
+      "name": "Huascar Ynoa",
+      "url": "https://www.baseball-reference.com/players/y/ynoahu01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "ynoara01",
+      "name": "Rafael Ynoa",
+      "url": "https://www.baseball-reference.com/players/y/ynoara01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zachach01",
+      "name": "Albert Zachary",
+      "url": "https://www.baseball-reference.com/players/z/zachach01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zambrca01",
+      "name": "Carlos Zambrano",
+      "url": "https://www.baseball-reference.com/players/z/zambrca01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zamorda01",
+      "name": "Daniel Zamora",
+      "url": "https://www.baseball-reference.com/players/z/zamorda01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zamoros01",
+      "name": "Oscar Zamora",
+      "url": "https://www.baseball-reference.com/players/z/zamoros01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zaratma01",
+      "name": "Mauro Zárate",
+      "url": "https://www.baseball-reference.com/players/z/zaratma01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zarilal01",
+      "name": "Al Zarilla",
+      "url": "https://www.baseball-reference.com/players/z/zarilal01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zavalse01",
+      "name": "Seby Zavala",
+      "url": "https://www.baseball-reference.com/players/z/zavalse01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zavarcl01",
+      "name": "Clint Zavaras",
+      "url": "https://www.baseball-reference.com/players/z/zavarcl01.shtml",
+      "letter": "a",
+      "count": 3
+    },
+    {
+      "id": "zawadla01",
+      "name": "Lance Zawadzki",
+      "url": "https://www.baseball-reference.com/players/z/zawadla01.shtml",
+      "letter": "a",
+      "count": 3
+    }
+  ]
+}
